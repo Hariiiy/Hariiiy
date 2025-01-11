@@ -9,7 +9,6 @@
 🚀    Main GameEngine: **Unity3d**, **UnrealEngine** </br></br>
 🎯    Currently working on an indie Game **"The Sunset"**, set to be published in early 2025<br></br>
 
-</br>
 
 ---
 
@@ -43,5 +42,25 @@
   
 </details>
 
+---
+
+### 💻 Projects:
+<details>
+<summary><b>Languages</b></summary>
+
+  
+</details>
+
+<details>
+<summary><b>Engine</b></summary>
+
+  
+</details>
+
+<details>
+<summary><b>Other</b></summary>
+
+  
+</details>
 
 
