@@ -44,23 +44,61 @@
 
 ---
 
-### 💻 Projects:
+### 👾 Projects:
 <details>
-<summary><b>Languages</b></summary>
-
+<summary><b>The Sunset</b> 
   
-</details>
-
-<details>
-<summary><b>Engine</b></summary>
-
-  
-</details>
-
-<details>
-<summary><b>Other</b></summary>
+  >『Unity』  『Indie』</summary>
 
   
 </details>
 
 
+<details>
+<summary><b>Fishin!</b>
+
+  >『Unreal』  『Programmer/Designer/VFX』</summary>
+
+  
+</details>
+
+
+<details>
+<summary><b>Bug Slayer</b>
+
+  >『HTML』『Java Script』  『Indie』</summary>
+
+  
+</details>
+
+
+
+<details>
+<summary><b>Museum</b></summary>
+
+  
+</details>
+
+
+
+<details>
+<summary><b>Neon Paradox </b></summary>
+
+  
+</details>
+
+
+
+<details>
+<summary><b>The Forest</b></summary>
+
+  
+</details>
+
+
+
+<details>
+<summary><b>The Two Worlds</b></summary>
+
+  
+</details>
