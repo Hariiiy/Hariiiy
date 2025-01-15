@@ -48,9 +48,8 @@
   
   ><p>『A diablo like rpg game with multiple controllable characters, unique skills and 30+ perks that can be custom by player to boost up the battle. Survive, Fight, and Build in a fungal apocalypse』</p>
 
-<a href = patreon.com/user?u=52585742> View Dev logs on my Patreon </a>
+<a href = "patreon.com/user?u=52585742"> View Dev logs on my Patreon </a>
 
-[Support me on Patreon!](patreon.com/user?u=52585742)
 
 | IMAGE  | DESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDE</br>SDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDES |
 | ------------- | ------------- |
