@@ -50,7 +50,7 @@
 
 <a href = patreon.com/user?u=52585742> View Dev logs on my Patreon </a>
 
-[Support me on Patreon!](href = https://www.patreon.com/yourusername)
+[Support me on Patreon!](href = patreon.com/user?u=52585742)
 
 | IMAGE  | DESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDE</br>SDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDES |
 | ------------- | ------------- |
