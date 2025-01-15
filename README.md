@@ -42,11 +42,15 @@
 <details>
 <summary>
   
-  ### <b>The Sunset</b> 
+  #### <b>The Sunset</b> 
 
 </summary>
   
-  >『Unity』
+  ><p>『A diablo like rpg game with multiple controllable characters, unique skills and 30+ perks that can be custom by player to boost up the battle. Survive, Fight, and Build in a fungal apocalypse』</p>
+
+<a href = patreon.com/user?u=52585742> View Dev logs on my Patreon </a>
+
+[Support me on Patreon!](href = https://www.patreon.com/yourusername)
 
 | IMAGE  | DESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDE</br>SDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDES |
 | ------------- | ------------- |
