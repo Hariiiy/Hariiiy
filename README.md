@@ -45,20 +45,46 @@
   #### <b>The Sunset</b> 
 
 </summary>
-  
+
   ><p>『A diablo like rpg game with multiple controllable characters, unique skills and 30+ perks that can be custom by player to boost up the battle. Survive, Fight, and Build in a fungal apocalypse』</p>
 
 <a href = "https://patreon.com/user?u=52585742&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"> View Dev logs on my Patreon </a>
 
 
-| IMAGE  | DESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDE</br>SDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDES |
-| ------------- | ------------- |
+<details>
+
+<summary><b>Technology Stack</b></summary>
+ 
+  ><p>『Unity』  『C#』  『Spine』
+ 
+</details>
+
+
 
 
 <details>
 
 <summary><b>Screen Shots</b></summary>
+ 
+</details>
 
+
+
+<details>
+
+<summary><b>Role</b></summary>
+
+ - Designer
+ - Programmer
+
+ 
+</details>
+
+<details>
+
+<summary><b>Key Challenges and Solutions</b></summary>
+
+><p>A  </p>
  
 </details>
 
