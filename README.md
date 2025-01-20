@@ -127,9 +127,9 @@
 
 <summary><b>Role</b></summary>
 
-<b>Solo Game Developer</b>
+<b>Programmer, Designer</b>
 
- ><p>Overview: As the sole developer of this project, I am responsible for every part of game creation, from initial concepts to final implementation. Including programming, art and animation, level design, sound design, and functions testing.</p>
+ ><p>Overview: </p>
 
 
 - **Programming:** Implemented game logic, physics, and user interfaces using Unity 3D and C#
@@ -140,11 +140,11 @@
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Engine            | Unity 3D                   |
-| Programming       | C#                         |
+| Engine            | Unreal 5                   |
+| Programming       | Unreal BluePrint           |
 | Version Control   | Git, GitHub                |
-| Art and Design    | Adobe Photoshop, Spine, Sai 2     |
-| Sound             | FL Studio                  |
+| Art and Design    |  |
+| Sound             |  |
 
 <br>
 
