@@ -51,7 +51,11 @@
 <a href = "https://patreon.com/user?u=52585742&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"> View Dev logs on my Patreon </a>
 
 
-<summary><b>Role: Solo Game Developer</b></summary>
+<details>
+
+<summary><b>Role</b></summary>
+
+<b>Solo Game Developer</b>
 
  ><p>Overview: As the sole developer of this project, I am responsible for every part of game creation, from initial concepts to final implementation. Including programming, art and animation, level design, sound design, and functions testing.</p>
 
@@ -79,8 +83,7 @@
 - **Scriptable Objects:** Using scriptable objects to store perks' data, laying the foundation for adding more perks in future versions, making the perks better managed and making their mechanisms more diverse.
 - **Object Pool:** Enemies are stored in a object pool, saving resources needed to generate each enemy and reducing the resources consumed by the monster group. Also preparing for future shooting mods character.
 
-<br>
-
+</details>
 
 
 
@@ -88,8 +91,6 @@
 
 <summary><b>Key Challenges and Solutions</b></summary>
 
-><p>A  </p>
- 
 </details>
 
 
@@ -110,17 +111,77 @@
 
 </details>
 
+<details>
+<summary>
+  
+  #### <b>Fishin!</b> 
+
+</summary>
+
+  ><p>『3D top-down fishing game with a secret! Everything will seem peaceful until the secret is discovered. Fish, store, sell, and upgrade! Discover the secret through the hint on the boat!』</p>
+
+<a href = "https://itch.io/jam/game-off-2024/rate/3147780"> Itch.io </a>
+
+
+<details>
+
+<summary><b>Role</b></summary>
+
+<b>Solo Game Developer</b>
+
+ ><p>Overview: As the sole developer of this project, I am responsible for every part of game creation, from initial concepts to final implementation. Including programming, art and animation, level design, sound design, and functions testing.</p>
+
+
+- **Programming:** Implemented game logic, physics, and user interfaces using Unity 3D and C#
+- **2D Art and Animation:** Created character designs, environments, and characters' rigging animations using Adobe Photoshop, Sai2, Spine.
+- **SFX:** Created Sound and background music with FL studio, Some source from: Artlist.io
+
+<b>Technology Stack</b>
+ 
+| Category          | Technologies               |
+|-------------------|----------------------------|
+| Engine            | Unity 3D                   |
+| Programming       | C#                         |
+| Version Control   | Git, GitHub                |
+| Art and Design    | Adobe Photoshop, Spine, Sai 2     |
+| Sound             | FL Studio                  |
+
+<br>
+
+<summary><b>Coding highLight</b></summary>
+<br>
+
+- **Save System:** Using .json files to save player's game data, Save Manager code with Singleton and Prototype, and can be called to save and load when needed by any game object script in the game.
+- **Scriptable Objects:** Using scriptable objects to store perks' data, laying the foundation for adding more perks in future versions, making the perks better managed and making their mechanisms more diverse.
+- **Object Pool:** Enemies are stored in a object pool, saving resources needed to generate each enemy and reducing the resources consumed by the monster group. Also preparing for future shooting mods character.
+
+</details>
+
+
+
+<details>
+
+<summary><b>Key Challenges and Solutions</b></summary>
+
+</details>
 
 
 
 
 <details>
-<summary><b>Fishin!</b>
 
-  >『Unreal』  </summary>
+<summary><b>Screen Shots</b></summary>
+ 
+</details>
 
-  
-</details><br></br>
+
+
+
+
+
+---
+
+</details>
 
 
 <details>
