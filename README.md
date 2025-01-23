@@ -115,8 +115,6 @@
 
 
 
-
-
 ---
 
 </details>
@@ -140,8 +138,6 @@
 <summary><b>Role</b></summary>
 
 <b>Programmer, Designer</b>
-
- ><p>Overview: </p>
 
 
 - **Programming:** Implemented Fishing Function and the interaction between player and fishes.
@@ -173,8 +169,6 @@
 
 
 
-
-
 ---
 
 </details>
@@ -183,6 +177,8 @@
 <summary>
   
   #### <b>Bug Slayer</b> 
+
+  >『HTML5』『Solo』
 
 </summary>
 
