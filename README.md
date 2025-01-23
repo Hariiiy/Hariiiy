@@ -6,7 +6,6 @@
 🎮    **Video Game Programmer** trying to put all my effort in the **Video Game Industry** </br></br>
 📝    **DEC - Computer Science Technology**, Lasalle College, Montreal, QC </br></br>
 🚀    Main Game Engines: **Unity3d / UnrealEngine** </br></br>
-🎯    Currently working on an indie Game **"The Sunset"**, set to be published in early 2025<br></br>
 
 
 
@@ -83,13 +82,22 @@
 - **Scriptable Objects:** Using scriptable objects to store perks' data, laying the foundation for adding more perks in future versions, making the perks better managed and making their mechanisms more diverse.
 - **Object Pool:** Enemies are stored in a object pool, saving resources needed to generate each enemy and reducing the resources consumed by the monster group. Also preparing for future shooting mods character.
 
-</details>
+<br>
 
+</details>
 
 
 <details>
 
 <summary><b>Key Challenges and Solutions</b></summary>
+
+|Challenges       | Solutions             |
+|-------------------|----------------------------|
+| High perk count leads to loading delays        | Seprate the perk pool acooding to the perk type. Split the index numbers and assign meaning to each number,『Compared to 10001, 10002... Using a index to 13042, 1 represents the category of the perk, 3 represents the perk level, and 042 is the perk of the 42nd effect in category 1.』 This organization reduces the number of perks the system needs to search through, enhancing efficiency and minimizing resource consumption.  |
+|Latin fonts lack Unicode support for certain languages       | Developed a manager script that searches for all in-game text upon startup or when the language setting is changed. This script automatically updates the text to use a stylized font that supports the selected language.          |
+
+
+<br>
 
 </details>
 
