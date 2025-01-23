@@ -43,6 +43,8 @@
   
   #### <b>The Sunset</b> 
 
+  >『Unity』『Indie』
+
 </summary>
 
   ><p>『A diablo like rpg game with multiple controllable characters, unique skills and 30+ perks that can be custom by player to boost up the battle. Survive, Fight, and Build in a fungal apocalypse』</p>
@@ -124,6 +126,8 @@
   
   #### <b>Fishin!</b> 
 
+  >『Unreal 5』『Co-op』『Game Jam』
+
 </summary>
 
   ><p>『3D top-down fishing game with a secret! Everything will seem peaceful until the secret is discovered. Fish, store, sell, and upgrade! Discover the secret through the hint on the boat!』</p>
@@ -196,9 +200,8 @@
  ><p>Overview: As the sole developer of this project, I am responsible for every part of game creation, from initial concepts to final implementation. Including programming, art and animation, level design, sound design, and functions testing.</p>
 
 
-- **Programming:** Implemented game logic, physics, and user interfaces using Unity 3D and C#
-- **2D Art and Animation:** Created character designs, environments, and characters' rigging animations using Adobe Photoshop, Sai2, Spine.
-- **SFX:** Created Sound and background music with FL studio, Some source from: Artlist.io
+- **Programming:** Implemented based Game Logic
+- **Visual:** Created character designs, environments, and characters' rigging animations using Adobe Photoshop, Sai2, Spine.
 
 <b>Technology Stack</b>
  
