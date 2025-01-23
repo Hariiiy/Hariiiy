@@ -142,7 +142,7 @@
 
 - **Programming:** Implemented Fishing Function and the interaction between player and fishes.
 - **Visual:** Created the Water body with shader; numbers of particle effects, as well as the calling.
-- **Spawner** m ethod to randomly spawn fished and respawn after a catch.
+- **Spawner** Method to randomly spawn fished and respawn after a catch.
 
 <b>Technology Stack</b>
  
@@ -162,7 +162,76 @@
 
 <details>
 
+<summary><b>Screen Shots</b></summary>
+ 
+</details>
+
+
+
+
+
+
+---
+
+</details>
+
+<details>
+<summary>
+  
+  #### <b>Bug Slayer</b> 
+
+</summary>
+
+  ><p>『Click & Slay, web page mini game project』</p>
+
+<a href = "https://patreon.com/user?u=52585742&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"> Repo </a>
+
+
+<details>
+
+<summary><b>Role</b></summary>
+
+<b>Solo Game Developer</b>
+
+ ><p>Overview: As the sole developer of this project, I am responsible for every part of game creation, from initial concepts to final implementation. Including programming, art and animation, level design, sound design, and functions testing.</p>
+
+
+- **Programming:** Implemented game logic, physics, and user interfaces using Unity 3D and C#
+- **2D Art and Animation:** Created character designs, environments, and characters' rigging animations using Adobe Photoshop, Sai2, Spine.
+- **SFX:** Created Sound and background music with FL studio, Some source from: Artlist.io
+
+<b>Technology Stack</b>
+ 
+| Category          | Technologies               |
+|-------------------|----------------------------|
+| Console         | Visual Studio Code            |
+| Programming       | Java Script, HTML5, CSS                    |
+
+<br>
+
+<summary><b>Coding highLight</b></summary>
+<br>
+
+- **Save System:** Using .json files to save player's game data, Save Manager code with Singleton and Prototype, and can be called to save and load when needed by any game object script in the game.
+- **Scriptable Objects:** Using scriptable objects to store perks' data, laying the foundation for adding more perks in future versions, making the perks better managed and making their mechanisms more diverse.
+- **Object Pool:** Enemies are stored in a object pool, saving resources needed to generate each enemy and reducing the resources consumed by the monster group. Also preparing for future shooting mods character.
+
+<br>
+
+</details>
+
+
+<details>
+
 <summary><b>Key Challenges and Solutions</b></summary>
+
+|Challenges       | Solutions             |
+|-------------------|----------------------------|
+| High perk count leads to loading delays        | Seprate the perk pool acooding to the perk type. Split the index numbers and assign meaning to each number,『Compared to 10001, 10002... Using a index to 13042, 1 represents the category of the perk, 3 represents the perk level, and 042 is the perk of the 42nd effect in category 1.』 This organization reduces the number of perks the system needs to search through, enhancing efficiency and minimizing resource consumption.  |
+|Latin fonts lack Unicode support for certain languages       | Developed a manager script that searches for all in-game text upon startup or when the language setting is changed. This script automatically updates the text to use a stylized font that supports the selected language.          |
+
+
+<br>
 
 </details>
 
@@ -183,26 +252,6 @@
 ---
 
 </details>
-
-
-<details>
-<summary><b>Bugs Slayer</b>
-
-  >『HTML』『Java Script』 </summary>
-
-  
-</details><br></br>
-
-
-
-<details>
-<summary><b>Hunter House</b>
-
-  >『Maya』</summary>
-
-  
-</details><br></br>
-
 
 
 <details>
