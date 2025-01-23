@@ -140,9 +140,9 @@
  ><p>Overview: </p>
 
 
-- **Programming:** Implemented game logic, physics, and user interfaces using Unity 3D and C#
-- **2D Art and Animation:** Created character designs, environments, and characters' rigging animations using Adobe Photoshop, Sai2, Spine.
-- **SFX:** Created Sound and background music with FL studio, Some source from: Artlist.io
+- **Programming:** Implemented Fishing Function and the interaction between player and fishes.
+- **Visual:** Created the Water body with shader; numbers of particle effects, as well as the calling.
+- **Spawner** m ethod to randomly spawn fished and respawn after a catch.
 
 <b>Technology Stack</b>
  
@@ -151,17 +151,10 @@
 | Engine            | Unreal 5                   |
 | Programming       | Unreal BluePrint           |
 | Version Control   | Git, GitHub                |
-| Art and Design    |  |
-| Sound             |  |
+
 
 <br>
 
-<summary><b>Coding highLight</b></summary>
-<br>
-
-- **Save System:** Using .json files to save player's game data, Save Manager code with Singleton and Prototype, and can be called to save and load when needed by any game object script in the game.
-- **Scriptable Objects:** Using scriptable objects to store perks' data, laying the foundation for adding more perks in future versions, making the perks better managed and making their mechanisms more diverse.
-- **Object Pool:** Enemies are stored in a object pool, saving resources needed to generate each enemy and reducing the resources consumed by the monster group. Also preparing for future shooting mods character.
 
 </details>
 
