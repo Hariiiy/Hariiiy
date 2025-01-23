@@ -225,42 +225,225 @@
 ---
 
 </details>
-
-
-<details>
-<summary><b>Museum</b>
-
-  >『Unity』</summary>
-
-  
-</details><br></br>
+</details>
 
 
 
 <details>
-<summary><b>Neon Paradox </b>
+<summary>
   
-  >『Unity』</summary>
+  #### <b>Museum</b> 
 
-  
-</details><br></br>
+  >『Unity』『Co-op』
 
+</summary>
+
+  ><p>『Click & Slay, web page mini game project』</p>
+
+<a href = "https://patreon.com/user?u=52585742&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"> Repo </a>
 
 
 <details>
-<summary><b>The Forest</b>
+
+<summary><b>Role</b></summary>
+
+<b>Solo Game Developer</b>
+
+ ><p>Overview: As the sole developer of this project, I am responsible for every part of game creation, from initial concepts to final implementation. Including programming, art and animation, level design, sound design, and functions testing.</p>
+
+
+- **Programming:** Implemented based Game Logic
+- **Visual:** Created character designs, environments, and characters' rigging animations using Adobe Photoshop, Sai2, Spine.
+
+<b>Technology Stack</b>
  
-  >『Visual Studio』『ASCII Art Game』</summary>
+| Category          | Technologies               |
+|-------------------|----------------------------|
+| Console         | Visual Studio Code            |
+| Programming       | Java Script, HTML5, CSS                    |
 
-  
-</details><br></br>
+<br>
+
 
 
 
 <details>
-<summary><b>The Two Worlds</b>
-  
-  >『Construct 3』</summary>
 
+<summary><b>Screen Shots</b></summary>
+ 
+</details>
+
+
+
+
+
+
+---
+
+</details>
+</details>
+
+<details>
+<summary>
   
-</details><br></br>
+  #### <b>Neon Paradox</b> 
+
+  >『Unity』『Co-op』
+
+</summary>
+
+  ><p>『Click & Slay, web page mini game project』</p>
+
+<a href = "https://patreon.com/user?u=52585742&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"> Repo </a>
+
+
+<details>
+
+<summary><b>Role</b></summary>
+
+<b>Solo Game Developer</b>
+
+ ><p>Overview: As the sole developer of this project, I am responsible for every part of game creation, from initial concepts to final implementation. Including programming, art and animation, level design, sound design, and functions testing.</p>
+
+
+- **Programming:** Implemented based Game Logic
+- **Visual:** Created character designs, environments, and characters' rigging animations using Adobe Photoshop, Sai2, Spine.
+
+<b>Technology Stack</b>
+ 
+| Category          | Technologies               |
+|-------------------|----------------------------|
+| Console         | Visual Studio Code            |
+| Programming       | Java Script, HTML5, CSS                    |
+
+<br>
+
+
+
+
+<details>
+
+<summary><b>Screen Shots</b></summary>
+ 
+</details>
+
+
+
+
+
+
+---
+
+</details>
+</details>
+
+
+<details>
+<summary>
+  
+  #### <b>Forest</b> 
+
+  >『Console』『Solo』
+
+</summary>
+
+  ><p>『Click & Slay, web page mini game project』</p>
+
+<a href = "https://patreon.com/user?u=52585742&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"> Repo </a>
+
+
+<details>
+
+<summary><b>Role</b></summary>
+
+<b>Solo Game Developer</b>
+
+ ><p>Overview: As the sole developer of this project, I am responsible for every part of game creation, from initial concepts to final implementation. Including programming, art and animation, level design, sound design, and functions testing.</p>
+
+
+- **Programming:** Implemented based Game Logic
+- **Visual:** Created character designs, environments, and characters' rigging animations using Adobe Photoshop, Sai2, Spine.
+
+<b>Technology Stack</b>
+ 
+| Category          | Technologies               |
+|-------------------|----------------------------|
+| Console         | Visual Studio Code            |
+| Programming       | Java Script, HTML5, CSS                    |
+
+<br>
+
+
+
+
+<details>
+
+<summary><b>Screen Shots</b></summary>
+ 
+</details>
+
+
+
+
+
+
+---
+
+</details>
+</details>
+
+
+
+<details>
+<summary>
+  
+  #### <b>The Two World</b> 
+
+  >『Construct 3』『Co-op』『Youth-Fusion』
+
+</summary>
+
+  ><p>『Click & Slay, web page mini game project』</p>
+
+<a href = "https://patreon.com/user?u=52585742&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"> Repo </a>
+
+
+<details>
+
+<summary><b>Role</b></summary>
+
+<b>Solo Game Developer</b>
+
+ ><p>Overview: As the sole developer of this project, I am responsible for every part of game creation, from initial concepts to final implementation. Including programming, art and animation, level design, sound design, and functions testing.</p>
+
+
+- **Programming:** Implemented based Game Logic
+- **Visual:** Created character designs, environments, and characters' rigging animations using Adobe Photoshop, Sai2, Spine.
+
+<b>Technology Stack</b>
+ 
+| Category          | Technologies               |
+|-------------------|----------------------------|
+| Console         | Visual Studio Code            |
+| Programming       | Java Script, HTML5, CSS                    |
+
+<br>
+
+
+
+
+<details>
+
+<summary><b>Screen Shots</b></summary>
+ 
+</details>
+
+
+
+
+
+
+---
+
+</details>
+</details>
