@@ -173,41 +173,48 @@
 
 </details>
 
+
+
+
+
 <details>
 <summary>
   
-  #### <b>Bug Slayer</b> 
+  #### <b>Neon Paradox</b> 
 
-  >『HTML5』『Solo』
+  >『Unreal 5』『Co-op』『Game Jam』
 
 </summary>
 
-  ><p>『Click & Slay, web page mini game project』</p>
+  ><p>『3D top-down fishing game with a secret! Everything will seem peaceful until the secret is discovered. Fish, store, sell, and upgrade! Discover the secret through the hint on the boat!』</p>
 
-<a href = "https://patreon.com/user?u=52585742&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"> Repo </a>
+<a href = "https://itch.io/jam/game-off-2024/rate/3147780"> Itch.io </a>
 
 
 <details>
 
 <summary><b>Role</b></summary>
 
-<b>Solo Game Developer</b>
-
- ><p>Overview: As the sole developer of this project, I am responsible for every part of game creation, from initial concepts to final implementation. Including programming, art and animation, level design, sound design, and functions testing.</p>
+<b>Programmer, Designer</b>
 
 
-- **Programming:** Implemented based Game Logic
-- **Visual:** Created character designs, environments, and characters' rigging animations using Adobe Photoshop, Sai2, Spine.
+- **Programming:** Implemented Fishing Function and the interaction between player and fishes.
+- **Visual:** Created the Water body with shader; numbers of particle effects, as well as the calling.
+- **Spawner** Method to randomly spawn fished and respawn after a catch.
 
 <b>Technology Stack</b>
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Console         | Visual Studio Code            |
-| Programming       | Java Script, HTML5, CSS                    |
+| Engine            | Unreal 5                   |
+| Programming       | Unreal BluePrint           |
+| Version Control   | Git, GitHub                |
+
 
 <br>
 
+
+</details>
 
 
 
@@ -220,12 +227,11 @@
 
 
 
-
-
 ---
 
 </details>
-</details>
+
+
 
 
 
@@ -234,36 +240,39 @@
   
   #### <b>Museum</b> 
 
-  >『Unity』『Co-op』
+  >『Unreal 5』『Co-op』『Game Jam』
 
 </summary>
 
-  ><p>『Click & Slay, web page mini game project』</p>
+  ><p>『3D top-down fishing game with a secret! Everything will seem peaceful until the secret is discovered. Fish, store, sell, and upgrade! Discover the secret through the hint on the boat!』</p>
 
-<a href = "https://patreon.com/user?u=52585742&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"> Repo </a>
+<a href = "https://itch.io/jam/game-off-2024/rate/3147780"> Itch.io </a>
 
 
 <details>
 
 <summary><b>Role</b></summary>
 
-<b>Solo Game Developer</b>
-
- ><p>Overview: As the sole developer of this project, I am responsible for every part of game creation, from initial concepts to final implementation. Including programming, art and animation, level design, sound design, and functions testing.</p>
+<b>Programmer, Designer</b>
 
 
-- **Programming:** Implemented based Game Logic
-- **Visual:** Created character designs, environments, and characters' rigging animations using Adobe Photoshop, Sai2, Spine.
+- **Programming:** Implemented Fishing Function and the interaction between player and fishes.
+- **Visual:** Created the Water body with shader; numbers of particle effects, as well as the calling.
+- **Spawner** Method to randomly spawn fished and respawn after a catch.
 
 <b>Technology Stack</b>
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Console         | Visual Studio Code            |
-| Programming       | Java Script, HTML5, CSS                    |
+| Engine            | Unreal 5                   |
+| Programming       | Unreal BluePrint           |
+| Version Control   | Git, GitHub                |
+
 
 <br>
 
+
+</details>
 
 
 
@@ -276,66 +285,12 @@
 
 
 
-
-
 ---
 
 </details>
-</details>
-
-<details>
-<summary>
-  
-  #### <b>Neon Paradox</b> 
-
-  >『Unity』『Co-op』
-
-</summary>
-
-  ><p>『Click & Slay, web page mini game project』</p>
-
-<a href = "https://patreon.com/user?u=52585742&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"> Repo </a>
-
-
-<details>
-
-<summary><b>Role</b></summary>
-
-<b>Solo Game Developer</b>
-
- ><p>Overview: As the sole developer of this project, I am responsible for every part of game creation, from initial concepts to final implementation. Including programming, art and animation, level design, sound design, and functions testing.</p>
-
-
-- **Programming:** Implemented based Game Logic
-- **Visual:** Created character designs, environments, and characters' rigging animations using Adobe Photoshop, Sai2, Spine.
-
-<b>Technology Stack</b>
- 
-| Category          | Technologies               |
-|-------------------|----------------------------|
-| Console         | Visual Studio Code            |
-| Programming       | Java Script, HTML5, CSS                    |
-
-<br>
 
 
 
-
-<details>
-
-<summary><b>Screen Shots</b></summary>
- 
-</details>
-
-
-
-
-
-
----
-
-</details>
-</details>
 
 
 <details>
@@ -343,36 +298,39 @@
   
   #### <b>Forest</b> 
 
-  >『Console』『Solo』
+  >『Unreal 5』『Co-op』『Game Jam』
 
 </summary>
 
-  ><p>『Click & Slay, web page mini game project』</p>
+  ><p>『3D top-down fishing game with a secret! Everything will seem peaceful until the secret is discovered. Fish, store, sell, and upgrade! Discover the secret through the hint on the boat!』</p>
 
-<a href = "https://patreon.com/user?u=52585742&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"> Repo </a>
+<a href = "https://itch.io/jam/game-off-2024/rate/3147780"> Itch.io </a>
 
 
 <details>
 
 <summary><b>Role</b></summary>
 
-<b>Solo Game Developer</b>
-
- ><p>Overview: As the sole developer of this project, I am responsible for every part of game creation, from initial concepts to final implementation. Including programming, art and animation, level design, sound design, and functions testing.</p>
+<b>Programmer, Designer</b>
 
 
-- **Programming:** Implemented based Game Logic
-- **Visual:** Created character designs, environments, and characters' rigging animations using Adobe Photoshop, Sai2, Spine.
+- **Programming:** Implemented Fishing Function and the interaction between player and fishes.
+- **Visual:** Created the Water body with shader; numbers of particle effects, as well as the calling.
+- **Spawner** Method to randomly spawn fished and respawn after a catch.
 
 <b>Technology Stack</b>
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Console         | Visual Studio Code            |
-| Programming       | Java Script, HTML5, CSS                    |
+| Engine            | Unreal 5                   |
+| Programming       | Unreal BluePrint           |
+| Version Control   | Git, GitHub                |
+
 
 <br>
 
+
+</details>
 
 
 
@@ -385,12 +343,11 @@
 
 
 
-
-
 ---
 
 </details>
-</details>
+
+
 
 
 
@@ -399,36 +356,39 @@
   
   #### <b>The Two World</b> 
 
-  >『Construct 3』『Co-op』『Youth-Fusion』
+  >『Unreal 5』『Co-op』『Game Jam』
 
 </summary>
 
-  ><p>『Click & Slay, web page mini game project』</p>
+  ><p>『3D top-down fishing game with a secret! Everything will seem peaceful until the secret is discovered. Fish, store, sell, and upgrade! Discover the secret through the hint on the boat!』</p>
 
-<a href = "https://patreon.com/user?u=52585742&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"> Repo </a>
+<a href = "https://itch.io/jam/game-off-2024/rate/3147780"> Itch.io </a>
 
 
 <details>
 
 <summary><b>Role</b></summary>
 
-<b>Solo Game Developer</b>
-
- ><p>Overview: As the sole developer of this project, I am responsible for every part of game creation, from initial concepts to final implementation. Including programming, art and animation, level design, sound design, and functions testing.</p>
+<b>Programmer, Designer</b>
 
 
-- **Programming:** Implemented based Game Logic
-- **Visual:** Created character designs, environments, and characters' rigging animations using Adobe Photoshop, Sai2, Spine.
+- **Programming:** Implemented Fishing Function and the interaction between player and fishes.
+- **Visual:** Created the Water body with shader; numbers of particle effects, as well as the calling.
+- **Spawner** Method to randomly spawn fished and respawn after a catch.
 
 <b>Technology Stack</b>
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Console         | Visual Studio Code            |
-| Programming       | Java Script, HTML5, CSS                    |
+| Engine            | Unreal 5                   |
+| Programming       | Unreal BluePrint           |
+| Version Control   | Git, GitHub                |
+
 
 <br>
 
+
+</details>
 
 
 
@@ -441,9 +401,7 @@
 
 
 
-
-
 ---
 
 </details>
-</details>
+
