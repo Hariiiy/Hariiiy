@@ -47,7 +47,7 @@
 
 </summary>
 
-  ><p>『A 2D diablo like rpg game with multiple controllable characters, unique skills and 30+ perks that can be custom by player to boost up the battle. Survive, Fight, and Build in a fungal apocalypse』</p>
+  ><p>『A 2D diablo like rpg game with multiple controllable characters, unique skills and 30+ perks that can be custom by player to boost up the battle. "Survive, Fight, and Build in a fungal apocalypse."』</p>
 
 <a href = "https://patreon.com/user?u=52585742&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"> View Dev logs on my Patreon </a>
 
@@ -128,7 +128,7 @@
 
 </summary>
 
-  ><p>『3D top-down fishing game with a secret! Everything will seem peaceful until the secret is discovered. Fish, store, sell, and upgrade! Discover the secret through the hint on the boat!』</p>
+  ><p>『3D top-down fishing game with a secret! "Everything will seem peaceful until the secret is discovered. Fish, store, sell, and upgrade! Discover the secret through the hint on the boat!"』</p>
 
 <a href = "https://itch.io/jam/game-off-2024/rate/3147780"> Itch.io </a>
 
@@ -186,7 +186,7 @@
 
 </summary>
 
-  ><p>『3D Level-based FPS game, Complete scene construction, level building and 3D animation. Run, shoot, and strengthen yourself in the cyber forest.』</p>
+  ><p>『3D Level-based FPS game, Complete scene construction, level building and 3D animation. "Run, shoot, and strengthen yourself in the cyber forest."』</p>
 
 <a href = ""> Repo </a>
 
@@ -247,7 +247,7 @@
 
 </summary>
 
-  ><p>『3D Horror puzzle game. "Working as a night security guard in a museum, I began hearing strange noises emanating from the corridor."』</p>
+  ><p>『3D Horror puzzle game. "Working as a night security guard in a museum, but why I keep hearing strange noises emanating from the corridor."』</p>
 
 <a href = ""> Repo </a>
 
@@ -259,16 +259,15 @@
 <b>Programmer, Designer</b>
 
 
-- **Programming:** Implemented Fishing Function and the interaction between player and fishes.
-- **Visual:** Created the Water body with shader; numbers of particle effects, as well as the calling.
-- **Spawner** Method to randomly spawn fished and respawn after a catch.
+- **Programming:** Character movement and camera swing, interactive system, and level puzzle.
+- **Visual:** Using the rendering image as a lens filter and baking lighting effects for the levels.
 
 <b>Technology Stack</b>
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Engine            | Unreal 5                   |
-| Programming       | Unreal BluePrint           |
+| Engine            | Unity                      |
+| Programming       | C#                         |
 | Version Control   | Git, GitHub                |
 
 
