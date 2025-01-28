@@ -47,7 +47,7 @@
 
 </summary>
 
-  ><p>『A diablo like rpg game with multiple controllable characters, unique skills and 30+ perks that can be custom by player to boost up the battle. Survive, Fight, and Build in a fungal apocalypse』</p>
+  ><p>『A 2D diablo like rpg game with multiple controllable characters, unique skills and 30+ perks that can be custom by player to boost up the battle. Survive, Fight, and Build in a fungal apocalypse』</p>
 
 <a href = "https://patreon.com/user?u=52585742&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"> View Dev logs on my Patreon </a>
 
@@ -141,7 +141,7 @@
 
 
 - **Programming:** Implemented Fishing Function and the interaction between player and fishes.
-- **Visual:** Created the Water body with shader; numbers of particle effects, as well as the calling.
+- **Visual:** Created the Water body effect with shader; numbers of particle effects.
 - **Spawner** Method to randomly spawn fished and respawn after a catch.
 
 <b>Technology Stack</b>
@@ -186,36 +186,39 @@
 
 </summary>
 
-  ><p>『3D top-down fishing game with a secret! Everything will seem peaceful until the secret is discovered. Fish, store, sell, and upgrade! Discover the secret through the hint on the boat!』</p>
+  ><p>『3D Level-based FPS game, Complete scene construction, level building and 3D animation. Run, shoot, and strengthen yourself in the cyber forest.』</p>
 
-<a href = "https://itch.io/jam/game-off-2024/rate/3147780"> Itch.io </a>
+<a href = ""> Repo </a>
 
 
 <details>
 
 <summary><b>Role</b></summary>
 
-<b>Programmer, Designer</b>
+<b>Programmer, Designer, Animator</b>
 
-
-- **Programming:** Implemented Fishing Function and the interaction between player and fishes.
-- **Visual:** Created the Water body with shader; numbers of particle effects, as well as the calling.
-- **Spawner** Method to randomly spawn fished and respawn after a catch.
+- **Programming:** Buff system, player movement, shooting and physical bullets, enemy spawing.
+- **3D animation and Visual:** Particle effect for explosion effects, bullet effects, scene light baking，3D animation for weapon.
 
 <b>Technology Stack</b>
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Engine            | Unreal 5                   |
-| Programming       | Unreal BluePrint           |
+| Engine            | Unity                      |
+| Programming       | C#                         |
 | Version Control   | Git, GitHub                |
-
 
 <br>
 
+<summary><b>HighLight</b></summary>
+<br>
+
+- **3D Animation and Blend Trees:** Use Unity's keyframes to craft detailed 3D animations for character hands and weapons, animation set of actions and transitions such as shooting, reloading, and running.
+- **Bullet and Shooting experience:** Bullets employ Rigidbody to simulate realistic trajectories, ejecting from the muzzle and gradually descending to the ground. Since each bullet is a GameObject with a Rigidbody component, an object pool is use to reduces the resource use caused by directly generating new bullets.
+- **Buff System:** Players can choose different Buff effects to strengthen themselves in the game. Buffs of the same type will also provide combo effects.
+<br>
 
 </details>
-
 
 
 <details>
@@ -244,9 +247,9 @@
 
 </summary>
 
-  ><p>『3D top-down fishing game with a secret! Everything will seem peaceful until the secret is discovered. Fish, store, sell, and upgrade! Discover the secret through the hint on the boat!』</p>
+  ><p>『3D Horror puzzle game. "Working as a night security guard in a museum, I began hearing strange noises emanating from the corridor."』</p>
 
-<a href = "https://itch.io/jam/game-off-2024/rate/3147780"> Itch.io </a>
+<a href = ""> Repo </a>
 
 
 <details>
