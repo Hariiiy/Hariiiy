@@ -364,7 +364,7 @@
 
   ><p>『3D top-down fishing game with a secret! Everything will seem peaceful until the secret is discovered. Fish, store, sell, and upgrade! Discover the secret through the hint on the boat!』</p>
 
-<a href = "https://itch.io/jam/game-off-2024/rate/3147780"> Itch.io </a>
+<a href = "https://fusionjeunesse.org/jeuxvideo_files/18-19/Canada/MontrealEtPeripherie/S/Rosemont/TheTwoWorlds/Jeu"> Youth Fusion 2018-2019 edition</a>
 
 
 <details>
