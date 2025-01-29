@@ -304,29 +304,28 @@
 
 </summary>
 
-  ><p>『3D top-down fishing game with a secret! Everything will seem peaceful until the secret is discovered. Fish, store, sell, and upgrade! Discover the secret through the hint on the boat!』</p>
+  ><p>『A Text-based RPG games. "As a warrior, you need to survive in this dangerous environment and defeat the enemy."』</p>
 
-<a href = "https://itch.io/jam/game-off-2024/rate/3147780"> Itch.io </a>
+<a href = ""> repo </a>
 
 
 <details>
 
 <summary><b>Role</b></summary>
 
-<b>Programmer, Designer</b>
+<b>Programmer</b>
 
 
-- **Programming:** Implemented Fishing Function and the interaction between player and fishes.
-- **Visual:** Created the Water body with shader; numbers of particle effects, as well as the calling.
-- **Spawner** Method to randomly spawn fished and respawn after a catch.
+- **Random Generation:** Randomly generated safe houses and monster lairs.
+- **Env:** Dangerous terrain depletes the player's health points; walls, trees, and stones impede the player's movements.
+- **Battle** Players can engage in turn-based combat with enemies.
 
 <b>Technology Stack</b>
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Engine            | Unreal 5                   |
-| Programming       | Unreal BluePrint           |
-| Version Control   | Git, GitHub                |
+| Console            | Visual Stuido                  |
+| Programming       | C#           |
 
 
 <br>
@@ -371,20 +370,18 @@
 
 <summary><b>Role</b></summary>
 
-<b>Programmer, Designer</b>
+<b>Programmer, Artist</b>
 
 
-- **Programming:** Implemented Fishing Function and the interaction between player and fishes.
-- **Visual:** Created the Water body with shader; numbers of particle effects, as well as the calling.
-- **Spawner** Method to randomly spawn fished and respawn after a catch.
+- **Programming:** Simple level shooting and interactive puzzles
+- **Art:** Some simple scene sprite
 
 <b>Technology Stack</b>
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Engine            | Unreal 5                   |
-| Programming       | Unreal BluePrint           |
-| Version Control   | Git, GitHub                |
+| Engine            | Construct 3                |
+| Art            | Aseprite               |
 
 
 <br>
