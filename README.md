@@ -43,6 +43,8 @@
 
 ## 👾 Projects:
 
+![Projects Review!](image/ProjectBanner.png)
+
 <a href = "https://drive.google.com/file/d/1VxsYnEN6NGWPpP4SIrWFf6F1OKyMd8qk/view?usp=drive_link"> Games Preview [Video]  </a>
 
 <details>
