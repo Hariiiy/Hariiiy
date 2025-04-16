@@ -42,6 +42,9 @@
 
 
 ## 👾 Projects:
+
+<a href = "https://drive.google.com/file/d/1VxsYnEN6NGWPpP4SIrWFf6F1OKyMd8qk/view?usp=drive_link"> Games Preview [Video]  </a>
+
 <details>
 <summary>
   
@@ -52,8 +55,6 @@
 </summary>
 
   ><p>『A 2D diablo like rpg game with multiple controllable characters, unique skills and 30+ perks that can be custom by player to boost up the battle. "Survive, Fight, and Build in a fungal apocalypse."』</p>
-
-<a href = "https://patreon.com/user?u=52585742&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"> View Dev logs on my Patreon </a>
 
 
 <details>
