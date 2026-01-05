@@ -1,4 +1,35 @@
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 # Hi there, I'm Hariiiy!
+
+
+
+
+
+
+
+
+
+
 >**Video Game Programming / Video Game Designing / Digital Crafting**
 
 </br>
