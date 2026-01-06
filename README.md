@@ -34,6 +34,7 @@
 
 >**Gameplay Programming / Designing / Digital Crafting**
 
+![Projects Review!](image/ProjectBanner.png)
 
   ######  ::⠀"Work with game engines as creative tools, focusing on systems, interaction, and playable structures." </br>
   
