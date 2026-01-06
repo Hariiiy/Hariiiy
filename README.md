@@ -33,16 +33,14 @@
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
 
 # Hi there, I'm Hariiiy!
 
+(For best formatting, please view this portfolio on desktop)
 
-
-
+</br>
+</br>
+</br>
 
 
 
