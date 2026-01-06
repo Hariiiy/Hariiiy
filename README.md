@@ -1,4 +1,4 @@
-###### BOOT SEQ 00.14  ::  READ_Req: README.md
+###### BOOT SEQ 00.14  ::  READ_Req: README.md ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(For best formatting, please view this portfolio on desktop)
 
 
 
@@ -31,7 +31,7 @@
 
 # Hi there, I'm Hariiiy!
 
-###### (For best formatting, please view this portfolio on desktop)
+
 
 
 
