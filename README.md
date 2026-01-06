@@ -23,6 +23,27 @@
 
 [ LOADING READY ] —⠀————————————————————————————————————————————⠀—⠀— >>
 
+###### SYSLOG::PROFILE
+
+######  —⠀————————————————————————————————————————————⠀———⠀—
+
+###### ID...............: [YOUR_NAME / ALIAS]
+
+###### ROLE.............: Game Programmer / Technical Designer
+
+###### FOCUS............: Systems, interaction, UI, narrative delivery
+
+###### TOOLS............: Unity, Unreal, C#, (add more)
+
+###### LOCATION.........: Montreal, QC (or Canada)
+
+###### STATUS...........: Academic application portfolio
+
+###### CONTACT..........: [EMAIL]  |  [LINKEDIN/ARTSTATION]
+
+---------------------------------------
+
+
 </br>
 </br>
 </br>
