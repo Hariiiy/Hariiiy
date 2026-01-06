@@ -32,18 +32,14 @@
 # Hi there, I'm Hariiiy!
 
 
+>**Gameplay Programming / Designing / Digital Crafting**
 
 
-
-
-
->**Video Game Programming / Video Game Designing / Digital Crafting**
-
-</br>
-
-🎮    **Video Game Programmer** trying to put all my effort in the **Video Game Industry** </br></br>
-📝    **DEC - Computer Science Technology**, Lasalle College, Montreal, QC </br></br>
-🚀    Main Game Engines: **Unity3d / UnrealEngine** </br></br>
+  ######  ::⠀"Work with game engines as creative tools, focusing on systems, interaction, and playable structures." </br>
+  
+  ######  ::⠀DEC --- **Computer Science Technology**, Lasalle College, Montreal, QC </br>
+  
+  ######  ::⠀Primary Engines --- **Unity3d / UnrealEngine** </br></br></br>
 
 
 
