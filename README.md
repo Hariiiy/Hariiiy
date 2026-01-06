@@ -36,11 +36,11 @@
 
 ![Projects Review!](image/ProjectBanner.png)
 
-  ######  ::⠀"Work with game engines as creative tools, focusing on systems, interaction, and playable structures." </br>
+  #####  ::⠀"Work with game engines as creative tools, focusing on systems, interaction, and playable structures." </br>
   
-  ######  ::⠀DEC --- **Computer Science Technology**, Lasalle College, Montreal, QC </br>
+  #####  ::⠀DEC --- **Computer Science Technology**, Lasalle College, Montreal, QC </br>
   
-  ######  ::⠀Primary Engines --- **Unity3d / UnrealEngine** </br></br></br>
+  #####  ::⠀Primary Engines --- **Unity3d / UnrealEngine** </br></br></br>
 
 
 
