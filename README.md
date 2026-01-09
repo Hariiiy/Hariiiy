@@ -36,20 +36,17 @@
 
 ![Projects Review!](image/ProjectBanner.png)
 
-  #####  ::⠀"Work with game engines as creative tools, focusing on systems, interaction, and playable structures." </br>
-  
-  #####  ::⠀DEC --- **Computer Science Technology**, Lasalle College, Montreal, QC </br>
-  
-  #####  ::⠀Primary Engines --- **Unity3d / UnrealEngine** </br></br></br>
+  ####  ::⠀"Work with game engines as creative tools, focusing on systems, interaction, and playable structures." 
+  ####  ::⠀"Create games as a medium to translate personal ideas into systems, interactions, and experiences others can feel."
 
 
+---
 
-
-## 💻 Skill Stack:
-
+</br>
+</br>
 <summary><b>Languages</b></summary>
 
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" width="45">  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" width="60">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" width="40">  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" width="50">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" width="85">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" width="100">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" width="130">
