@@ -25,7 +25,7 @@
 
 ###### ▼⠀⠀▼ ⠀⠀ SCROLL TO CONTINUE
 
-</br>
+</br></br>
 
 # Hi there, I'm Hariiiy!
 
@@ -41,7 +41,7 @@
 
 ###### ▼⠀⠀▼ ⠀⠀ SCROLL TO CONTINUE
 
-</br>
+</br></br>
 <summary><b>Languages</b></summary>
 
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" width="40">  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" width="52">
