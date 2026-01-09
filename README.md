@@ -76,8 +76,6 @@
 
 </br>
 
-</br>
-
 ## SYSTEMS & PROGRAMMING
 
 ::⠀This section presents gameplay systems, tools, and technical implementations. The focus is on structure, logic, and refinement through development.
@@ -91,7 +89,6 @@
 
 </br>
 
-</br>
 
 ---
 
