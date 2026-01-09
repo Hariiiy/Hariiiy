@@ -61,14 +61,36 @@
 
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" width="60"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" width="92">  
 
+</br>
+
+## ART & VISUAL
+
+::⠀A collection of visual experiments, stylized assets, and interactive content. This section focuses on atmosphere, composition, and how visuals support meaning sharing and gameplay experience.
+
+<details>
+<summary> More </summary>
+
+（...）
+
+</details>
 
 </br>
+
 </br>
+
+## SYSTEMS & PROGRAMMING
+
+::⠀This section presents gameplay systems, tools, and technical implementations. The focus is on structure, logic, and refinement through development.
+
+<details>
+<summary>More</summary>
+
+（...）
+
+</details>
+
 </br>
-</br>
-</br>
-</br>
-</br>
+
 </br>
 
 ---
