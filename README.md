@@ -36,7 +36,6 @@
   ####  ::⠀"Work with game engines as creative tools, focusing on systems, interaction, and playable structures." 
   ####  ::⠀"Create games as a medium to translate personal ideas into systems, interactions, and experiences others can feel."
 
----
 
 ###### ▼⠀⠀▼ ⠀⠀ SCROLL TO CONTINUE
 
