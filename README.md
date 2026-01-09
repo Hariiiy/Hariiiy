@@ -26,7 +26,6 @@
 ###### ▼⠀⠀▼ ⠀⠀ SCROLL TO CONTINUE
 
 </br>
-</br>
 
 # Hi there, I'm Hariiiy!
 
