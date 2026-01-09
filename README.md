@@ -42,7 +42,6 @@
 ---
 
 </br>
-</br>
 <summary><b>Languages</b></summary>
 
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" width="40">  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" width="52">
@@ -56,19 +55,25 @@
 
 <summary><b>Engine</b></summary>
 
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white" width="100">  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white" width="180">
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white" width="80">  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white" width="140">
   
 
 
-<summary><b>Other</b></summary>
+<summary><b>Version Control</b></summary>
 
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" width="120">  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" width="80">
-  <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white" width="90">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" width="60"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" width="92">  
+
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 
-
-
+---
 
 <details>
 <summary>
