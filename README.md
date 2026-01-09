@@ -65,26 +65,58 @@
 
 ## ART & VISUAL
 
-::⠀A collection of visual experiments, stylized assets, and interactive content. This section focuses on atmosphere, composition, and how visuals support meaning sharing and gameplay experience.
+>⠀**A collection of visual experiments, stylized assets, and interactive content. This section focuses on atmosphere, composition, and how visuals support meaning sharing and gameplay experience.**
 
 <details>
 <summary> More </summary>
+  
+</br>
+
+<!-- ================================================================================================================================Art Part============================================================================================================================= -->
+
+### [A]bilities
+![Projects Review!](image/ProjectBanner.png)
+<details>
+<summary> "When suitable visual resources cannot express an idea clearly, I choose to create what is needed myself. For me, authorship means taking responsibility for how ideas are visually communicated."⠀⠀[Click to Open] </summary>
 
 （...）
 
+</details></br></br>
+
+### [R]eduction
+![Projects Review!](image/ProjectBanner.png)
+
+<details>
+<summary> "Sometimes working with limited resources pushed me to think differently about visual design. I believe that strong stylization — even when risky — can provide some richer interaction, and deeper immersion. Instead of hiding my shortcomings, choose a good style choices can elevate them into part of the experience."⠀⠀[Click to Open] </summary>
+
+（...）
+
+</details>
+
+
+### [T]he Sunset
+![Projects Review!](image/ProjectBanner.png)
+
+<details>
+<summary> "THE SUNSET is designed not as a statement, but as an experience. Rather than explaining its ideas through the story, it invites players to participate in the process of discovering meaning within a post-apocalyptic, idealistic world."⠀⠀[Click to Open] </summary>
+
+（...）
+
+</details>
+<!-- ================================================================================================================================Art Part End============================================================================================================================= -->
 </details>
 
 </br>
 
 ## SYSTEMS & PROGRAMMING
 
-::⠀This section presents gameplay systems, tools, and technical implementations. The focus is on structure, logic, and refinement through development.
+>⠀**⠀This section presents gameplay systems, tools, and technical implementations. The focus is on structure, logic, and refinement through development.**
 
 <details>
 <summary>More</summary>
-
+<!-- ================================================================================================================================Programming Part============================================================================================================================= -->
 （...）
-
+<!-- ================================================================================================================================Programming Part End============================================================================================================================= -->
 </details>
 
 </br>
