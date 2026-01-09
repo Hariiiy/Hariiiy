@@ -77,7 +77,7 @@
 ### [A]bilities
 ![Projects Review!](image/ProjectBanner.png)
 <details>
-<summary> "When suitable visual resources cannot express an idea clearly, I choose to create what is needed myself. For me, authorship means taking responsibility for how ideas are visually communicated."⠀⠀[Click to Open] </summary>
+<summary> "When an idea cannot be clearly expressed through existing assets, I create what is missing myself. Authorship, to me, means being responsible for how ideas take visual form."⠀⠀[Click to Open] </summary>
 
 （...）
 
