@@ -32,7 +32,7 @@
 >**Gameplay Programming / Designing / Digital Crafting**
 
 ![Projects Review!](image/ProjectBanner.png)
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href = "https://drive.google.com/file/d/1VxsYnEN6NGWPpP4SIrWFf6F1OKyMd8qk/view?usp=drive_link"> Games Preview [Video]  </a>
+<a href = "https://drive.google.com/file/d/1VxsYnEN6NGWPpP4SIrWFf6F1OKyMd8qk/view?usp=drive_link"> Games Preview [Video]  </a>
   ####  ::⠀"Work with game engines as creative tools, focusing on systems, interaction, and playable structures." 
   ####  ::⠀"Create games as a medium to translate personal ideas into systems, interactions, and experiences others can feel."
 
