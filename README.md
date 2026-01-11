@@ -329,7 +329,7 @@
   
 #### <b>Museum</b> 
 
-![Museum.png!](image/ProjectBanner.png)
+![Museum!](image/Museum_TitleBanner.png)
 
 >『"I was assigned to the night shift at a museum — but something keeps moving in the corridors after midnight."』
 
