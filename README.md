@@ -1,51 +1,130 @@
-# Hi there, I'm Hariiiy!
->**Video Game Programming / Video Game Designing / Digital Crafting**
+###### BOOT SEQ 00.14  ::  READ_Req: README.md ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(For best formatting, please view this portfolio on desktop)
+
+
+
+######  —⠀————————————————————————————————————————————⠀———⠀—
+
+######  ⠀∙⠀TARGET USER:⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀HARIIIY
+
+######  ⠀∙⠀ACCESS:⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀∙⠀TRUE
+
+
+⣀⣀⣀⣤⣶⣿⣿⣶⣤⣀⣤⣤⣀⣀⣤⣶⣿⣶⣤⣀⣀⣀⣤⣀⣤⣶⣤⣀⣀⣀⣀⣀⣤⣶⣿⣶⣤⣀⣀⣀⣀⣀⣤⣶⣤⣀⣤⣤⣀⣀⣤⣶⣿⣶⣤⣀⣀⣶⣤⣀⣤⣤⣀⣀⣤⣶⣶⣤⣀⣀⣀
+
+██████╗⠀⠀██████╗⠀⠀██████╗⠀⠀████████╗███████╗██████╗⠀⠀⠀██╗⠀⠀⠀⠀⠀██╗⠀██████╗
+██╔══██╗██╔═══██╗⠀██╔══██╗╚══██╔══╝██╔════╝██╔═══██╗⠀██║⠀⠀⠀⠀⠀██║██╔═══██╗
+██████╔╝██║⠀⠀⠀██║⠀██████╔╝⠀⠀⠀██║⠀⠀⠀⠀█████╗⠀⠀██║⠀⠀⠀██║⠀██║⠀⠀⠀⠀⠀██║ ██║⠀⠀⠀██║
+██╔═══╝⠀██║⠀⠀⠀██║⠀██╔══██╗⠀⠀⠀██║⠀⠀⠀⠀██╔══╝⠀⠀██║⠀⠀⠀██║⠀██║⠀⠀⠀⠀⠀██║ ██║⠀⠀⠀██║
+██║⠀⠀⠀⠀⠀╚██████╔╝⠀██║⠀⠀⠀██║⠀⠀██║⠀⠀⠀⠀██║⠀⠀⠀⠀⠀╚██████╔╝⠀███████╗██║ ╚██████╔╝
+╚═╝⠀⠀⠀⠀⠀⠀╚═════╝⠀⠀╚═╝⠀⠀╚═╝⠀⠀⠀╚═╝⠀⠀⠀⠀╚═╝⠀⠀⠀⠀⠀⠀╚═════╝⠀⠀╚══════╝╚═╝ ╚═════╝
+
+###### [ LOADING READY ] : SYSLOG || PROFILE
+
+######  —⠀————————————————————————————————————————————⠀———⠀—
+
+###### ▼⠀⠀▼ ⠀⠀ SCROLL TO CONTINUE
 
 </br>
 
-🎮    **Video Game Programmer** trying to put all my effort in the **Video Game Industry** </br></br>
-📝    **DEC - Computer Science Technology**, Lasalle College, Montreal, QC </br></br>
-🚀    Main Game Engines: **Unity3d / UnrealEngine** </br></br>
+# Hi there, I'm Hariiiy!
 
 
+>**Gameplay Programming / Designing / Digital Crafting**
+
+![Projects Review!](image/ProjectBanner.png)
+<a href = "https://drive.google.com/file/d/1VxsYnEN6NGWPpP4SIrWFf6F1OKyMd8qk/view?usp=drive_link"> Games Preview [Video]  </a>
+  ####  ::⠀"Work with game engines as creative tools, focusing on systems, interaction, and playable structures." 
+  ####  ::⠀"Create games as a medium to translate personal ideas into systems, interactions, and experiences others can feel."
 
 
-## 💻 Skill Stack:
+###### ▼⠀⠀▼ ⠀⠀ SCROLL TO CONTINUE
 
+</br>
 <summary><b>Languages</b></summary>
 
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" width="45">  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" width="60">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" width="85">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" width="100">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" width="130">
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" width="110">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" width="40">  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" width="52">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" width="80">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" width="93">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" width="125">
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" width="100">
   
 
 
 
 <summary><b>Engine</b></summary>
 
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white" width="100">  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white" width="180">
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white" width="80">  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white" width="140">
   
 
 
-<summary><b>Other</b></summary>
+<summary><b>Version Control</b></summary>
 
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" width="120">  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" width="80">
-  <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white" width="90">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" width="60"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" width="92">  
+
 </br>
+
+## ART & VISUAL
+
+>⠀**A collection of visual experiments, stylized assets, and interactive content. This section focuses on atmosphere, composition, and how visuals support meaning sharing and gameplay experience.**
+
+<details>
+<summary> More </summary>
+  
 </br>
 
-<!-- BEGIN YOUTUBE-CARDS -->
+<!-- ================================================================================================================================Art Part============================================================================================================================= -->
 
-<!-- END YOUTUBE-CARDS -->
+### [A]bilities
+![Projects Review!](image/ProjectBanner.png)
+<details>
+<summary> "When an idea cannot be clearly expressed through existing assets, I create what is missing myself. Authorship, to me, means being responsible for how ideas take visual form."⠀⠀[Click to Open] </summary>
 
+（...）
 
-## 👾 Projects:
+</details></br></br>
 
+### [R]eduction
 ![Projects Review!](image/ProjectBanner.png)
 
-<a href = "https://drive.google.com/file/d/1VxsYnEN6NGWPpP4SIrWFf6F1OKyMd8qk/view?usp=drive_link"> Games Preview [Video]  </a>
+<details>
+<summary> "Sometimes working with limited resources pushed me to think differently about visual design. I believe that strong stylization — even when risky — can provide some richer interaction, and deeper immersion. Instead of hiding my shortcomings, choose a good style choices can elevate them into part of the experience."⠀⠀[Click to Open] </summary>
+
+（...）
+
+</details></br></br>
+
+
+### [T]he Sunset
+![Projects Review!](image/ProjectBanner.png)
+
+<details>
+<summary> "THE SUNSET is designed not as a statement, but as an experience. Rather than explaining its ideas through the story, it invites players to participate in the process of discovering meaning within a post-apocalyptic, idealistic world."⠀⠀[Click to Open] </summary>
+
+（...）
+
+</details>
+<!-- ================================================================================================================================Art Part End============================================================================================================================= -->
+</details>
+
+</br>
+
+## SYSTEMS & PROGRAMMING
+
+>⠀**⠀This section presents gameplay systems, tools, and technical implementations. The focus is on structure, logic, and refinement through development.**
+
+<details>
+<summary>More</summary>
+<!-- ================================================================================================================================Programming Part============================================================================================================================= -->
+（...）
+<!-- ================================================================================================================================Programming Part End============================================================================================================================= -->
+</details>
+
+</br>
+
+## PROJECT
+
+>⠀**⠀This section presents completed and ongoing projects where visual design, systems, and ideas converge into playable experiences.**
+
 
 <details>
 <summary>
@@ -248,22 +327,22 @@
 <details>
 <summary>
   
-  #### <b>Museum</b> 
+#### <b>Museum</b> 
 
-  >『Unity』『Co-op』
+![Museum.png!](image/ProjectBanner.png)
+
+>『"I was assigned to the night shift at a museum — but something keeps moving in the corridors after midnight."』
 
 </summary>
 
-  ><p>『3D Horror puzzle game. "Working as a night security guard in a museum, but why I keep hearing strange noises emanating from the corridor."』</p>
-
-<a href = ""> Repo </a>
+  ><p>『Horror』『Low-Resolution Stylization』『Puzzle』『CO-OP』</p>
 
 
 <details>
 
 <summary><b>Role</b></summary>
 
-<b>Programmer, Designer</b>
+> <b>Designer, Programmer, Technical Art</b>
 
 
 - **Programming:** Character movement and camera swing, interactive system, and level puzzle.
@@ -307,22 +386,20 @@
   
   #### <b>Forest</b> 
 
-  >『Console』『Solo』
+  >『"As a warrior, you need to survive in this dangerous environment and defeat the enemy." A simple adventure game built entirely with text characters in a console environment.』
 
 </summary>
 
-  ><p>『A Text-based RPG games. "As a warrior, you need to survive in this dangerous environment and defeat the enemy."』</p>
-
-<a href = ""> repo </a>
+  ><p>『Systems Design』『Text-Based』『RPG』『SOLO』 </p>
 
 
 <details>
 
 <summary><b>Role</b></summary>
 
-<b>Programmer</b>
+> <b>Programmer</b>
 
-
+- **Systems Design:** A text-based adventure game built in a console environment, recreating classic RPG mechanics through character symbols.
 - **Random Generation:** Randomly generated safe houses and monster lairs.
 - **Env:** Dangerous terrain depletes the player's health points; walls, trees, and stones impede the player's movements.
 - **Battle** Players can engage in turn-based combat with enemies.
@@ -331,8 +408,7 @@
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Console            | Visual Stuido                  |
-| Programming       | C#           |
+| Platform            | Visual Studio Console (C#) |
 
 
 <br>
@@ -362,32 +438,33 @@
 <details>
 <summary>
   
-  #### <b>The Two World</b> 
+  #### <b>The Two Worlds</b> 
 
-  >『Construct 3』『Co-op』『Youth Fusion』
+  >『A small group-developed puzzle and action game created during a high school after-school program for the Youth Fusion. The project follows a child from opposing worlds who progress through puzzles and combat to defeat a final boss. 』
 
 </summary>
 
-  ><p>『3D top-down fishing game with a secret! Everything will seem peaceful until the secret is discovered. Fish, store, sell, and upgrade! Discover the secret through the hint on the boat!』</p>
+  ><p>『2D』『Puzzle』『Adventure』『CO-OP』</p>
 
 <a href = "https://fusionjeunesse.org/jeuxvideo_files/18-19/Canada/MontrealEtPeripherie/S/Rosemont/TheTwoWorlds/Jeu"> Youth Fusion 2018-2019 edition</a>
 
+<br>
 
 <details>
-
+  
 <summary><b>Role</b></summary>
 
-<b>Programmer, Artist</b>
+> <b>Programmer, Artist</b>
 
 
-- **Programming:** Simple level shooting and interactive puzzles
-- **Art:** Some simple scene sprite
+- **Programming:** 2D shooting method and interactive puzzles
+- **Art:** Scene and NPC's sprites
 
 <b>Technology Stack</b>
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Engine            | Construct 3                |
+| Game Engine            | Construct 3                |
 | Art            | Aseprite               |
 
 
@@ -401,6 +478,8 @@
 <details>
 
 <summary><b>Screen Shots</b></summary>
+
+> Due to the age of the project, the original playable build and screenshots are no longer fully accessible.
  
 </details>
 
