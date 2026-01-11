@@ -121,8 +121,10 @@
 
 </br>
 
+## PROJECT
 
----
+>⠀**⠀This section presents completed and ongoing projects where visual design, systems, and ideas converge into playable experiences.**
+
 
 <details>
 <summary>
@@ -384,13 +386,11 @@
   
   #### <b>Forest</b> 
 
-  >『Console』『Solo』
+  >『"As a warrior, you need to survive in this dangerous environment and defeat the enemy."』
 
 </summary>
 
-  ><p>『A Text-based RPG games. "As a warrior, you need to survive in this dangerous environment and defeat the enemy."』</p>
-
-<a href = ""> repo </a>
+  ><p>『VS Console』『Text-base』『Adventure』 </p>
 
 
 <details>
@@ -441,24 +441,25 @@
   
   #### <b>The Two World</b> 
 
-  >『Construct 3』『Co-op』『Youth Fusion』
+  >『A small group-developed puzzle and action game created during a high school after-school program for the Youth Fusion. The project follows a child from opposing worlds who progress through puzzles and combat to defeat a final boss. 』
 
 </summary>
 
-  ><p>『3D top-down fishing game with a secret! Everything will seem peaceful until the secret is discovered. Fish, store, sell, and upgrade! Discover the secret through the hint on the boat!』</p>
+  ><p>『2D』『Puzzle』『Adventure』『CO-OP』</p>
 
 <a href = "https://fusionjeunesse.org/jeuxvideo_files/18-19/Canada/MontrealEtPeripherie/S/Rosemont/TheTwoWorlds/Jeu"> Youth Fusion 2018-2019 edition</a>
 
+<br>
 
 <details>
-
+  
 <summary><b>Role</b></summary>
 
 <b>Programmer, Artist</b>
 
 
-- **Programming:** Simple level shooting and interactive puzzles
-- **Art:** Some simple scene sprite
+- **Programming:** 2D shooting method and interactive puzzles
+- **Art:** Scene and NPC's sprites
 
 <b>Technology Stack</b>
  
@@ -478,6 +479,8 @@
 <details>
 
 <summary><b>Screen Shots</b></summary>
+
+> Due to the age of the project, the original playable build and screenshots are no longer fully accessible.
  
 </details>
 
