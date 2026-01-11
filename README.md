@@ -1,4 +1,4 @@
-###### BOOT SEQ 00.14  ::  READ_Req: README.md ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(For best formatting, please view this portfolio on desktop)
+###### BOOT SEQ 00.14  ::  READ_Req: README.md ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀--⠀(For best formatting, please view this portfolio on desktop)
 
 
 
@@ -267,6 +267,8 @@
 <summary>
   
   #### <b>Neon Paradox</b> 
+
+![Museum!](image/Museum_TitleBanner.png)
 
   >『Unity』『Co-op』
 
