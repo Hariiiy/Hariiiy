@@ -61,50 +61,6 @@
 
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" width="60"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" width="92">  
 
-</br>
-
-## ART & VISUAL
-
->⠀**A collection of visual experiments, stylized assets, and interactive content. This section focuses on atmosphere, composition, and how visuals support meaning sharing and gameplay experience.**
-
-<details>
-<summary> More </summary>
-  
-</br>
-
-<!-- ================================================================================================================================Art Part============================================================================================================================= -->
-
-### [A]bilities
-![Projects Review!](image/ProjectBanner.png)
-<details>
-<summary> "When an idea cannot be clearly expressed through existing assets, I create what is missing myself. Authorship, to me, means being responsible for how ideas take visual form."⠀⠀[Click to Open] </summary>
-
-（...）
-
-</details></br></br>
-
-### [R]eduction
-![Projects Review!](image/ProjectBanner.png)
-
-<details>
-<summary> "Sometimes working with limited resources pushed me to think differently about visual design. I believe that strong stylization — even when risky — can provide some richer interaction, and deeper immersion. Instead of hiding my shortcomings, choose a good style choices can elevate them into part of the experience."⠀⠀[Click to Open] </summary>
-
-（...）
-
-</details></br></br>
-
-
-### [T]he Sunset
-![Projects Review!](image/ProjectBanner.png)
-
-<details>
-<summary> "THE SUNSET is designed not as a statement, but as an experience. Rather than explaining its ideas through the story, it invites players to participate in the process of discovering meaning within a post-apocalyptic, idealistic world."⠀⠀[Click to Open] </summary>
-
-（...）
-
-</details>
-<!-- ================================================================================================================================Art Part End============================================================================================================================= -->
-</details>
 
 </br>
 
@@ -126,12 +82,17 @@
 >⠀**⠀This section presents completed and ongoing projects where visual design, systems, and ideas converge into playable experiences.**
 
 
+<!-- ================================================================================================================================The Sunset============================================================================================================================= -->
 <details>
 <summary>
   
-  #### <b>The Sunset</b> 
+#### <b>The Sunset</b> 
 
-  >『Unity』『Indie』
+</br>
+
+<img src="image/TheSunset_TitleBanner.png" width="720" />
+
+  >『A world after collapse, where civilization fades and people search for meaning in what remains. Even without a promised future, the effort to move forward becomes proof of existence.』⠀⠀[Click to Open]
 
 </summary>
 
@@ -202,7 +163,9 @@
 
 
 ---
+<!-- ================================================================================================================================The Sunset============================================================================================================================= -->
 
+<!-- ================================================================================================================================Restaurant Full Moon============================================================================================================================= -->
 
 </details>
 
@@ -211,9 +174,12 @@
   
   #### <b>Restaurant Full Moon</b> 
 
-![Restaurant Full Moon!](image/RestaurantFullMoon_TitleBanner.png)
+</br>
 
-  >『Unreal 5』『Co-op』『Game Jam』
+<img src="image/RestaurantFullMoon_TitleBanner.png" width="720" />
+
+
+  >『Serving customers by day, taking out the trash by night — being a werewolf doesn't exempt you from work :( 』⠀⠀[Click to Open]
 
 </summary>
 
@@ -259,8 +225,8 @@
 
 
 ---
-
-
+<!-- ================================================================================================================================Restaurant Full Moon============================================================================================================================= -->
+<!-- ================================================================================================================================Fishin!============================================================================================================================= -->
 
 </details>
 
@@ -269,9 +235,12 @@
   
   #### <b>Fishin!</b> 
 
-![Fishin!](image/Fishin_TitleBanner.png)
+</br>
 
-  >『Unreal 5』『Co-op』『Game Jam』
+<img src="image/Fishin_TitleBanner.png" width="720" />
+
+
+  >『Everything will seem peaceful until the secret is discovered. Fish, store, sell, and upgrade!』⠀⠀[Click to Open]
 
 </summary>
 
@@ -317,6 +286,8 @@
 
 
 ---
+<!-- ================================================================================================================================Fishin!============================================================================================================================= -->
+<!-- ================================================================================================================================Neon Paradox============================================================================================================================= -->
 
 </details>
 
@@ -329,9 +300,12 @@
   
   #### <b>Neon Paradox</b> 
 
-![Neon Paradox!](image/Neon_Paradox_TitleBanner.png)
+</br>
 
-  >『Unity』『Co-op』
+<img src="image/Neon_Paradox_TitleBanner.png" width="720" />
+
+
+  >『"Gunfire, cybernetic augmentation, and an endless fight against a city overtaken by machines."』⠀⠀[Click to Open]
 
 </summary>
 
@@ -380,7 +354,8 @@
 
 
 ---
-
+<!-- ================================================================================================================================Neon Paradox============================================================================================================================= -->
+<!-- ================================================================================================================================Hunter============================================================================================================================= -->
 
 </details>
 
@@ -393,9 +368,12 @@
   
   #### <b>Hunter</b> 
 
-![Hunter!](image/Hunter_TitleBanner.png)
+</br>
 
-  >『Unity』『Co-op』
+<img src="image/Hunter_TitleBanner.png" width="720" />
+
+
+  >『"Firearms, rusted machinery, and the quiet tension of a western frontier."』⠀⠀[Click to Open]
 
 </summary>
 
@@ -444,8 +422,8 @@
 
 
 ---
-
-
+<!-- ================================================================================================================================Hunter============================================================================================================================= -->
+<!-- ================================================================================================================================Museum============================================================================================================================= -->
 
 
 
@@ -462,9 +440,12 @@
   
 #### <b>Museum</b> 
 
-![Museum!](image/Museum_TitleBanner.png)
+</br>
 
->『"I was assigned to the night shift at a museum — but something keeps moving in the corridors after midnight."』
+<img src="image/Museum_TitleBanner.png" width="720" />
+
+
+>『"I was assigned to the night shift at a museum — but something keeps moving in the corridors after midnight."』⠀⠀[Click to Open]
 
 </summary>
 
@@ -507,6 +488,8 @@
 
 
 ---
+<!-- ================================================================================================================================Museum============================================================================================================================= -->
+<!-- ================================================================================================================================Forest============================================================================================================================= -->
 
 </details>
 
@@ -518,10 +501,12 @@
 <summary>
   
   #### <b>Forest</b> 
-  
-![Forest!](image/Forest_TitleBanner.png)
 
-  >『"As a warrior, you need to survive in this dangerous environment and defeat the enemy." A simple adventure game built entirely with text characters in a console environment.』
+</br>
+
+<img src="image/Forest_TitleBanner.png" width="720" />
+  
+  >『"As a warrior, you need to survive in this dangerous environment and defeat the enemy." A simple adventure game built entirely with text characters in a console environment.』⠀⠀[Click to Open]
 
 </summary>
 
@@ -563,6 +548,8 @@
 
 
 ---
+<!-- ================================================================================================================================Forest============================================================================================================================= -->
+
 
 </details>
 
@@ -575,7 +562,7 @@
   
   #### <b>The Two Worlds</b> 
 
-  >『A small group-developed puzzle and action game created during a high school after-school program for the Youth Fusion. The project follows a child from opposing worlds who progress through puzzles and combat to defeat a final boss. 』
+  >『A small group-developed puzzle and action game created during a high school after-school program for the Youth Fusion. The project follows a child from opposing worlds who progress through puzzles and combat to defeat a final boss. 』⠀⠀[Click to Open]
 
 </summary>
 
