@@ -203,12 +203,73 @@
 
 ---
 
+
+</details>
+
+<details>
+<summary>
+  
+  #### <b>Restaurant Full Moon</b> 
+
+![Restaurant Full Moon!](image/RestaurantFullMoon_TitleBanner.png)
+
+  >『Unreal 5』『Co-op』『Game Jam』
+
+</summary>
+
+  ><p>『3D top-down fishing game with a secret! "Everything will seem peaceful until the secret is discovered. Fish, store, sell, and upgrade! Discover the secret through the hint on the boat!"』</p>
+
+<a href = "https://itch.io/jam/game-off-2024/rate/3147780"> Itch.io </a>
+
+
+<details>
+
+<summary><b>Role</b></summary>
+
+<b>Programmer, Designer</b>
+
+
+- **Programming:** Implemented Fishing Function and the interaction between player and fishes.
+- **Visual:** Created the Water body effect with shader; numbers of particle effects.
+- **Spawner** Method to randomly spawn fished and respawn after a catch.
+
+<b>Technology Stack</b>
+ 
+| Category          | Technologies               |
+|-------------------|----------------------------|
+| Engine            | Unreal 5                   |
+| Programming       | Unreal BluePrint           |
+| Version Control   | Git, GitHub                |
+
+
+<br>
+
+
+</details>
+
+
+
+<details>
+
+<summary><b>Screen Shots</b></summary>
+ 
+</details>
+
+
+
+
+---
+
+
+
 </details>
 
 <details>
 <summary>
   
   #### <b>Fishin!</b> 
+
+![Fishin!](image/Fishin_TitleBanner.png)
 
   >『Unreal 5』『Co-op』『Game Jam』
 
@@ -268,7 +329,7 @@
   
   #### <b>Neon Paradox</b> 
 
-![Museum!](image/Museum_TitleBanner.png)
+![Neon Paradox!](image/Neon_Paradox_TitleBanner.png)
 
   >『Unity』『Co-op』
 
@@ -319,6 +380,76 @@
 
 
 ---
+
+
+</details>
+
+
+
+
+
+<details>
+<summary>
+  
+  #### <b>Hunter</b> 
+
+![Hunter!](image/Hunter_TitleBanner.png)
+
+  >『Unity』『Co-op』
+
+</summary>
+
+  ><p>『3D Level-based FPS game, Complete scene construction, level building and 3D animation. "Run, shoot, and strengthen yourself in the cyber forest."』</p>
+
+<a href = ""> Repo </a>
+
+
+<details>
+
+<summary><b>Role</b></summary>
+
+<b>Programmer, Designer, Animator</b>
+
+- **Programming:** Buff system, player movement, shooting and physical bullets, enemy spawing.
+- **3D animation and Visual:** Particle effect for explosion effects, bullet effects, scene light baking，3D animation for weapon.
+
+<b>Technology Stack</b>
+ 
+| Category          | Technologies               |
+|-------------------|----------------------------|
+| Engine            | Unity                      |
+| Programming       | C#                         |
+| Version Control   | Git, GitHub                |
+
+<br>
+
+<summary><b>HighLight</b></summary>
+<br>
+
+- **3D Animation and Blend Trees:** Use Unity's keyframes to craft detailed 3D animations for character hands and weapons, animation set of actions and transitions such as shooting, reloading, and running.
+- **Bullet and Shooting experience:** Bullets employ Rigidbody to simulate realistic trajectories, ejecting from the muzzle and gradually descending to the ground. Since each bullet is a GameObject with a Rigidbody component, an object pool is use to reduces the resource use caused by directly generating new bullets.
+- **Buff System:** Players can choose different Buff effects to strengthen themselves in the game. Buffs of the same type will also provide combo effects.
+<br>
+
+</details>
+
+
+<details>
+
+<summary><b>Screen Shots</b></summary>
+ 
+</details>
+
+
+
+
+---
+
+
+
+
+
+
 
 </details>
 
@@ -387,6 +518,8 @@
 <summary>
   
   #### <b>Forest</b> 
+  
+![Forest!](image/Forest_TitleBanner.png)
 
   >『"As a warrior, you need to survive in this dangerous environment and defeat the enemy." A simple adventure game built entirely with text characters in a console environment.』
 
