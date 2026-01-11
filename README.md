@@ -327,22 +327,22 @@
 <details>
 <summary>
   
-  #### <b>Museum</b> 
+#### <b>Museum</b> 
 
-  >『Unity』『Co-op』
+![Museum.png!](image/ProjectBanner.png)
+
+>『"I was assigned to the night shift at a museum — but something keeps moving in the corridors after midnight."』
 
 </summary>
 
-  ><p>『3D Horror puzzle game. "Working as a night security guard in a museum, but why I keep hearing strange noises emanating from the corridor."』</p>
-
-<a href = ""> Repo </a>
+  ><p>『Horror』『Low-Resolution Stylization』『Puzzle』『CO-OP』</p>
 
 
 <details>
 
 <summary><b>Role</b></summary>
 
-<b>Programmer, Designer</b>
+> <b>Designer, Programmer, Technical Art</b>
 
 
 - **Programming:** Character movement and camera swing, interactive system, and level puzzle.
@@ -386,20 +386,20 @@
   
   #### <b>Forest</b> 
 
-  >『"As a warrior, you need to survive in this dangerous environment and defeat the enemy."』
+  >『"As a warrior, you need to survive in this dangerous environment and defeat the enemy." A simple adventure game built entirely with text characters in a console environment.』
 
 </summary>
 
-  ><p>『VS Console』『Text-base』『Adventure』 </p>
+  ><p>『Systems Design』『Text-Based』『RPG』『SOLO』 </p>
 
 
 <details>
 
 <summary><b>Role</b></summary>
 
-<b>Programmer</b>
+> <b>Programmer</b>
 
-
+- **Systems Design:** A text-based adventure game built in a console environment, recreating classic RPG mechanics through character symbols.
 - **Random Generation:** Randomly generated safe houses and monster lairs.
 - **Env:** Dangerous terrain depletes the player's health points; walls, trees, and stones impede the player's movements.
 - **Battle** Players can engage in turn-based combat with enemies.
@@ -408,8 +408,7 @@
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Console            | Visual Stuido                  |
-| Programming       | C#           |
+| Platform            | Visual Studio Console (C#) |
 
 
 <br>
@@ -439,7 +438,7 @@
 <details>
 <summary>
   
-  #### <b>The Two World</b> 
+  #### <b>The Two Worlds</b> 
 
   >『A small group-developed puzzle and action game created during a high school after-school program for the Youth Fusion. The project follows a child from opposing worlds who progress through puzzles and combat to defeat a final boss. 』
 
@@ -455,7 +454,7 @@
   
 <summary><b>Role</b></summary>
 
-<b>Programmer, Artist</b>
+> <b>Programmer, Artist</b>
 
 
 - **Programming:** 2D shooting method and interactive puzzles
@@ -465,7 +464,7 @@
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Engine            | Construct 3                |
+| Game Engine            | Construct 3                |
 | Art            | Aseprite               |
 
 
