@@ -522,6 +522,7 @@
 
 ###### Forest is my first formal game project, developed for an OOP course. Without access to a game engine or graphical support, players and enemies can only represented through abstract character symbols. 
 
+</br>
 
 <details>
 
@@ -534,7 +535,9 @@
 - **Env:** Dangerous terrain that can hurt player; walls, trees, and stones block the player's movements.
 - **Battle** Players can engage in turn-based combat with enemies by approach them.
 
-<b>Technology Stack</b>
+</br>
+
+> <b>Technology Stack</b>
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
@@ -548,11 +551,7 @@
 
 
 
-<details>
-
-<summary><b>Screen Shots</b></summary>
- 
-</details>
+> Due to the age of the project, the original playable build and screenshots are no longer fully accessible.
 
 
 
@@ -580,7 +579,7 @@
 
 <a href = "https://fusionjeunesse.org/jeuxvideo_files/18-19/Canada/MontrealEtPeripherie/S/Rosemont/TheTwoWorlds/Jeu"> Youth Fusion 2018-2019 edition</a>
 
-<br>
+</br>
 
 <details>
   
@@ -592,7 +591,7 @@
 - **Programming:** 2D shooting method and interactive puzzles
 - **Art:** Scene and NPC's sprites
 
-<b>Technology Stack</b>
+> <b>Technology Stack</b>
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
