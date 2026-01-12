@@ -594,14 +594,7 @@
 </details>
 
 
-
-<details>
-
-<summary><b>Screen Shots</b></summary>
-
 > Due to the age of the project, the original playable build and screenshots are no longer fully accessible.
- 
-</details>
 
 
 
