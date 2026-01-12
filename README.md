@@ -98,6 +98,13 @@
 
   ><p>[Roguelite]⠀⠀[CRPG-Inspired]⠀⠀[mixing 2D&3D]⠀⠀[Cards]⠀⠀[SOLO Project]</p>
 
+
+</br>
+
+###### The Sunset is a mid-scale independent project developed solo. Players awaken with no memories in a world shaped by fungal collapse, gradually uncovering both the truth behind the apocalypse and their own origins. Rather than assuming a predefined role, players are invited to role-play themselves, making choices that define a personal journey through the world.
+
+  
+
 <details>
 
 <summary><b>Role</b></summary>
