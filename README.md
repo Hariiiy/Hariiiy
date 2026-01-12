@@ -86,7 +86,7 @@
 <details>
 <summary>
   
-#### <b>The Sunset</b> 
+#### <b>The Sunset [Ongoing]</b> 
 
 </br>
 
@@ -383,10 +383,12 @@
 
 </summary>
 
-   ><p>[3D Model]⠀⠀[Maya]⠀⠀[SOLO Project]</p>
+   ><p>[3D Model]⠀⠀[Lighting]⠀⠀[Maya]⠀⠀[SOLO Project]</p>
 
-<a href = ""> Repo </a>
 
+
+###### This project was created as a 3D modeling and lighting study using Maya.
+###### Inspired by the western and swamp aesthetics of "Hunt: Showdown", the scene aims to depict a hunter’s cabin hidden deep within the wetlands, captured during a quiet afternoon after the fog has lifted.
 
 <details>
 
@@ -457,38 +459,44 @@
 
    ><p>[Horror]⠀⠀[Puzzle]⠀⠀[3D Stylization]⠀⠀[Team Project]</p>
    
-<video src="image/MuseumGamePreview.mp4" width="720" autoplay loop muted playsinline></video>
+<img src="image/Museum_Preview.gif" width="720" />
+
+###### A night security guard vanished inside a museum, leaving behind unanswered questions — and a highly paid vacant position.
+###### Working alone after closing hours, players follow routine patrol notes, investigate strange noises, solve puzzles, and evade an unknown presence in order to survive the night and escape.
+
+</br>
 
 <details>
 
 <summary><b>Role</b></summary>
 
-> <b>Designer, Programmer, Technical Art</b>
+</br>
 
+> <b>Designer, Programmer, Technical Artist</b>
 
-- **Programming:** Character movement and camera swing, interactive system, and level puzzle.
-- **Visual:** Using the rendering image as a lens filter and baking lighting effects for the levels.
+</br>
 
-<b>Technology Stack</b>
+**Visual Choosing & Direction:** `Defined a unified visual language across environments, UI, and rendering choices to ensure stylistic consistency throughout the project.`
+
+**Programming:** `Player control flow, interaction rules, and puzzle logic designed to support tension and pacing.`
+
+**Visual:** `Pixel-based rendering and glitch effect used to unify low-detail assets and enhance atmosphere.`
+
+  
+
+</br>
+
+> <b>Technology Stack</b>
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Engine            | Unity                      |
-| Programming       | C#                         |
-| Version Control   | Git, GitHub                |
+| Engine⠀⠀⠀⠀⠀            | Unity⠀⠀⠀⠀⠀                      |
+| Programming⠀⠀⠀⠀⠀       | C#⠀⠀⠀⠀⠀                         ||
 
 
 <br>
 
 
-</details>
-
-
-
-<details>
-
-<summary><b>Screen Shots</b></summary>
- 
 </details>
 
 
@@ -529,12 +537,14 @@
 
 <summary><b>Role</b></summary>
 
+</br>
+
 > <b>Programmer</b>
 
-- **Systems Design:** A text-based adventure game built in a console environment, recreating classic RPG mechanics through character symbols replacement.
-- **Random Generation:** Randomly generated safe houses and monster lairs, including different terrains. A monster nest will continue to generate enemy.
-- **Env:** Dangerous terrain that can hurt player; walls, trees, and stones block the player's movements.
-- **Battle** Players can engage in turn-based combat with enemies by approach them.
+- **Systems Design:** `A text-based adventure game built in a console environment, recreating classic RPG mechanics through character symbols replacement.`
+- **Random Generation:** `Randomly generated safe houses and monster lairs, including different terrains. A monster nest will continue to generate enemy.`
+- **Env:** `Dangerous terrain that can hurt player; walls, trees, and stones block the player's movements.`
+- **Battle:** `Players can engage in turn-based combat with enemies by approach them.`
 
 </br>
 
@@ -542,7 +552,7 @@
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Platform          | Visual Studio Console (C#) |
+| Platform⠀⠀⠀⠀⠀          | Visual Studio Console (C#)⠀⠀⠀⠀⠀ |
 
 
 <br>
@@ -586,18 +596,22 @@
   
 <summary><b>Role</b></summary>
 
+</br>
+
 > <b>Programmer, Artist</b>
 
 
-- **Programming:** 2D shooting method and interactive puzzles
-- **Art:** Scene and NPC's sprites
+- **Programming:** `2D shooting method and interactive puzzles.`
+- **Art:** `Scene and NPC's sprites.`
+
+</br>
 
 > <b>Technology Stack</b>
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Game Engine            | Construct 3                |
-| Art            | Aseprite               |
+| Game Engine⠀⠀⠀⠀⠀           | Construct 3⠀⠀⠀⠀⠀                |
+| Art⠀⠀⠀⠀⠀            | Aseprite⠀⠀⠀⠀⠀               |
 
 
 <br>
