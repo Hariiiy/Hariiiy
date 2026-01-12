@@ -524,16 +524,16 @@
 
 > <b>Programmer</b>
 
-- **Systems Design:** A text-based adventure game built in a console environment, recreating classic RPG mechanics through character symbols.
-- **Random Generation:** Randomly generated safe houses and monster lairs.
-- **Env:** Dangerous terrain depletes the player's health points; walls, trees, and stones impede the player's movements.
-- **Battle** Players can engage in turn-based combat with enemies.
+- **Systems Design:** A text-based adventure game built in a console environment, recreating classic RPG mechanics through character symbols replacement.
+- **Random Generation:** Randomly generated safe houses and monster lairs, including different terrains. A monster nest will continue to generate enemy.
+- **Env:** Dangerous terrain that can hurt player; walls, trees, and stones block the player's movements.
+- **Battle** Players can engage in turn-based combat with enemies by approach them.
 
 <b>Technology Stack</b>
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Platform            | Visual Studio Console (C#) |
+| Platform          | Visual Studio Console (C#) |
 
 
 <br>
