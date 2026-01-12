@@ -456,7 +456,8 @@
 </summary>
 
    ><p>[Horror]⠀⠀[Puzzle]⠀⠀[3D Stylization]⠀⠀[Team Project]</p>
-
+   
+<video src="image/MuseumGamePreview.mp4" width="720" autoplay loop muted playsinline></video>
 
 <details>
 
