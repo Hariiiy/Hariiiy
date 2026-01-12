@@ -96,8 +96,7 @@
 
 </summary>
 
-  ><p>『A 2D diablo like rpg game with multiple controllable characters, unique skills and 30+ perks that can be custom by player to boost up the battle. "Survive, Fight, and Build in a fungal apocalypse."』</p>
-
+  ><p>[Roguelite]⠀⠀[CRPG-Inspired]⠀⠀[mixing 2D&3D]⠀⠀[Cards]⠀⠀[SOLO Project]</p>
 
 <details>
 
@@ -183,7 +182,7 @@
 
 </summary>
 
-  ><p>『3D top-down fishing game with a secret! "Everything will seem peaceful until the secret is discovered. Fish, store, sell, and upgrade! Discover the secret through the hint on the boat!"』</p>
+  ><p>[Tycoon]⠀⠀[Simulation]⠀⠀[mixing 2D&3D]⠀⠀[Team Project]</p>
 
 <a href = "https://itch.io/jam/game-off-2024/rate/3147780"> Itch.io </a>
 
@@ -244,7 +243,7 @@
 
 </summary>
 
-  ><p>『3D top-down fishing game with a secret! "Everything will seem peaceful until the secret is discovered. Fish, store, sell, and upgrade! Discover the secret through the hint on the boat!"』</p>
+  ><p> [Fishing]⠀⠀[3D Top Down]⠀⠀[Relax]⠀⠀[Team Project]</p>
 
 <a href = "https://itch.io/jam/game-off-2024/rate/3147780"> Itch.io </a>
 
@@ -309,7 +308,7 @@
 
 </summary>
 
-  ><p>『3D Level-based FPS game, Complete scene construction, level building and 3D animation. "Run, shoot, and strengthen yourself in the cyber forest."』</p>
+   ><p>[RougeLite]⠀⠀[FPS]⠀⠀[3D]⠀⠀[Team Project]</p>
 
 <a href = ""> Repo </a>
 
@@ -377,7 +376,7 @@
 
 </summary>
 
-  ><p>『3D Level-based FPS game, Complete scene construction, level building and 3D animation. "Run, shoot, and strengthen yourself in the cyber forest."』</p>
+   ><p>[3D Model]⠀⠀[Maya]⠀⠀[SOLO Project]</p>
 
 <a href = ""> Repo </a>
 
@@ -449,7 +448,7 @@
 
 </summary>
 
-  ><p>『Horror』『Low-Resolution Stylization』『Puzzle』『CO-OP』</p>
+   ><p>[Horror]⠀⠀[Puzzle]⠀⠀[3D Stylization]⠀⠀[Team Project]</p>
 
 
 <details>
@@ -510,8 +509,7 @@
 
 </summary>
 
-  ><p>『Systems Design』『Text-Based』『RPG』『SOLO』 </p>
-
+  ><p>[Systems Design]⠀⠀[RPG]⠀⠀[Text-Based]⠀⠀[SOLO Project]</p>
 
 <details>
 
@@ -566,7 +564,7 @@
 
 </summary>
 
-  ><p>『2D』『Puzzle』『Adventure』『CO-OP』</p>
+ ><p>[Puzzle]⠀⠀[Adventure]⠀⠀[2D]⠀⠀[Team Project]</p>
 
 <a href = "https://fusionjeunesse.org/jeuxvideo_files/18-19/Canada/MontrealEtPeripherie/S/Rosemont/TheTwoWorlds/Jeu"> Youth Fusion 2018-2019 edition</a>
 
