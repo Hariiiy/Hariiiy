@@ -518,6 +518,11 @@
 
   ><p>[Systems Design]⠀⠀[RPG]⠀⠀[Text-Based]⠀⠀[SOLO Project]</p>
 
+</br>
+
+###### Forest is my first formal game project, developed for an OOP course. Without access to a game engine or graphical support, players and enemies can only represented through abstract character symbols. 
+
+
 <details>
 
 <summary><b>Role</b></summary>
