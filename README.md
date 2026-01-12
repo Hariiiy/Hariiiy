@@ -308,7 +308,7 @@
 
 </summary>
 
-   ><p>[RougeLite]⠀⠀[FPS]⠀⠀[3D]⠀⠀[Team Project]</p>
+   ><p>[Rougelite]⠀⠀[FPS]⠀⠀[3D]⠀⠀[Team Project]</p>
 
 <a href = ""> Repo </a>
 
