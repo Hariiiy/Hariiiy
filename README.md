@@ -315,44 +315,58 @@
 
 </summary>
 
+
+
    ><p>[Rougelite]⠀⠀[FPS]⠀⠀[3D]⠀⠀[Team Project]</p>
 
-<a href = ""> Repo </a>
+<img src="image/NeonParadoxPreview.gif" width="720" />
 
+</br>
+
+###### The city has been overtaken by machines. Don’t overthink it — grab your weapon, unleash everything you’ve got, and turn steel into scrap.
+
+###### Install powerful buff chips to push your firepower, speed, and combat efficiency beyond human limits. Stack upgrades, break the flow of combat, and dominate the battlefield.
+
+###### These chips were never meant to be safe. The side effects exist — just not where you’re forced to deal with them yet.
+
+</br>
 
 <details>
 
 <summary><b>Role</b></summary>
 
-<b>Programmer, Designer, Animator</b>
+</br>
 
-- **Programming:** Buff system, player movement, shooting and physical bullets, enemy spawing.
-- **3D animation and Visual:** Particle effect for explosion effects, bullet effects, scene light baking，3D animation for weapon.
+> <b>Designer, Programmer, Technical Artist</b>
 
-<b>Technology Stack</b>
+- **Gameplay:** `Designed the core roguelite buff system using buff pools and runtime selection. Buffs reshape both player stats and behavior, enabling shooting experience and high-mobility movement mechanics.`
+
+- **Weapon Handling:** `Implemented a physics-driven shooting system using Rigidbody-based projectile simulation. Bullet spread and drop are simulated in real time and combined with camera recoil and weapon animation shake to create a grounded, responsive shooting experience.`
+  
+- **Animation & Visual:** `Created all first-person hand keyframe animations and built the animation state machine supporting weapons and high-mobility actions. Handled animation blending and particle effects to ensure visual feedback during player's state transitions.`
+
+</br>
+
+> <b>Technology Stack</b>
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Engine            | Unity                      |
-| Programming       | C#                         |
-| Version Control   | Git, GitHub                |
+| Engine⠀⠀⠀⠀⠀            | Unity⠀⠀⠀⠀⠀                      |
+| Programming⠀⠀⠀⠀⠀       | C#⠀⠀⠀⠀⠀                         |
 
-<br>
-
-<summary><b>HighLight</b></summary>
-<br>
-
-- **3D Animation and Blend Trees:** Use Unity's keyframes to craft detailed 3D animations for character hands and weapons, animation set of actions and transitions such as shooting, reloading, and running.
-- **Bullet and Shooting experience:** Bullets employ Rigidbody to simulate realistic trajectories, ejecting from the muzzle and gradually descending to the ground. Since each bullet is a GameObject with a Rigidbody component, an object pool is use to reduces the resource use caused by directly generating new bullets.
-- **Buff System:** Players can choose different Buff effects to strengthen themselves in the game. Buffs of the same type will also provide combo effects.
-<br>
+</br>
 
 </details>
 
 
 <details>
 
-<summary><b>Screen Shots</b></summary>
+<summary><b>Visual Tone</b></summary>
+
+<img src="image/NeonParadox/GunAnimation.gif" width="720" />
+
+###### Gunplay animation
+
  
 </details>
 
@@ -397,7 +411,7 @@
 
 </br>
 
-> <b>Technical Artist, Technical Artist</b>
+> <b>Technical Artist</b>
 
 - **Structural Focus:** `Firearm models was built with fully articulated internal firing mechanisms, including bolt operation, chamber structure, and rifling-related components.`
 - **Animation & Rigging:** `The firearms' bolt cycling and ejection behavior were demonstrated using Maya joint system and Unity’s Animator, showing the mechanical linkage between internal components during operation.`
