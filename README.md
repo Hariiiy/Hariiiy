@@ -259,7 +259,7 @@
 
 ###### You wake up on a small boat in unfamiliar waters. The sea is red, the fog is hot, and the fish don’t look right — but the line still holds, and the water is full of them.
 
-###### So you fish. Catch, sell, upgrade your gear, and reach deeper waters where stranger, heavier fish wait.
+###### So you fish, Catch, sell, upgrade your gear, and reach deeper waters where stranger, heavier fish wait.
 
 ###### Whatever this place is can wait. As long as there are fish, there’s work to do.
 
