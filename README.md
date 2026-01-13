@@ -253,26 +253,40 @@
 
   ><p> [Fishing]⠀⠀[Relax]⠀⠀[3D Top Down]⠀⠀[Team Project]</p>
 
+<img src="image/Fishin_Preview.gif" width="720" />
 
+</br>
+
+###### You wake up on a small boat in unfamiliar waters. The sea is red, the fog is hot, and the fish don’t look right — but the line still holds, and the water is full of them.
+
+###### So you fish. Catch, sell, upgrade your gear, and reach deeper waters where stranger, heavier fish wait.
+
+###### Whatever this place is can wait. As long as there are fish, there’s work to do.
+
+</br>
 
 <details>
 
 <summary><b>Role</b></summary>
 
-<b>Programmer, Designer</b>
+</br>
+
+> <b>Programmer, Technical Artist</b>
 
 
-- **Programming:** Implemented Fishing Function and the interaction between player and fishes.
-- **Visual:** Created the Water body effect with shader; numbers of particle effects.
-- **Spawner** Method to randomly spawn fished and respawn after a catch.
+- **Gameplay:** `Designed and implemented the core fishing QTE system, serving as the primary gameplay loop. Fish are procedurally generated with varying difficulty, behavior, and value, encouraging progression through gear upgrades.`
+  
+- **Visual Effects:** `Created the water surface shader to simulate ripples and disturbances caused by the player’s boat and fish movement. Developed particle effects for fog as a airwall, also to reinforce the unsettling atmosphere of the environment.`
 
-<b>Technology Stack</b>
+
+</br>
+
+> <b>Technology Stack</b>
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Engine            | Unreal 5                   |
-| Programming       | Unreal BluePrint           |
-| Version Control   | Git, GitHub                |
+| Engine⠀⠀⠀⠀⠀            | Unreal 5⠀⠀⠀⠀⠀                   |
+| Programming⠀⠀⠀⠀⠀       | Unreal BluePrint & C++⠀⠀⠀⠀⠀          |
 
 
 <br>
@@ -284,7 +298,7 @@
 
 <details>
 
-<summary><b>Screen Shots</b></summary>
+<summary><b>Visual Tone & Gameplay</b></summary>
  
 </details>
 
@@ -361,7 +375,7 @@
 
 <details>
 
-<summary><b>Visual Tone</b></summary>
+<summary><b>Visual Tone & Gameplay</b></summary>
 
 
 ###### Gunplay animation (.gif might take time to load)
