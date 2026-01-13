@@ -297,13 +297,13 @@
 
 <details>
 
-<summary><b>Visual Tone & Gameplay</b></summary>
+<summary><b>Visual Tone & Gameplay Screenshot</b></summary>
 
 ###### Fishing (.gif might take time to load)
 
 <img src="image/Fishin/Fishing.gif" width="720" />
 
-###### Screen Shoot
+###### Screenshot
 
 <img src="image/Fishin/1.png" width="360" /> <img src="image/Fishin/2.png" width="360" />
 
@@ -384,7 +384,7 @@
 
 <details>
 
-<summary><b>Visual Tone & Gameplay</b></summary>
+<summary><b>Visual Tone & Gameplay Screenshot</b></summary>
 
 
 ###### Gunplay animation (.gif might take time to load)
@@ -397,7 +397,7 @@
 <img src="image/NeonParadox/Movement.gif" width="720" />
 
 
-###### Screen Shoot
+###### Screenshot
 
 <img src="image/NeonParadox/1.png" width="360" /> <img src="image/NeonParadox/2.png" width="360" />
 
@@ -470,7 +470,7 @@
 
 <details>
 
-<summary><b>High-Res Screenshots</b></summary>
+<summary><b>High-Res Screenshot</b></summary>
 
 </br>
 
