@@ -385,44 +385,48 @@
 
    ><p>[3D Model]⠀⠀[Lighting]⠀⠀[Maya]⠀⠀[SOLO Project]</p>
 
+<img src="image/Hunter_Preview.gif" width="720" />
 
+###### This project was created as a 3D modeling and lighting study using Maya and Unity.
+###### Inspired by the western and swamp aesthetics of "Hunt: Showdown", the scene aims to display a hunter’s cabin hidden deep within the wetlands, captured during a quiet afternoon after the fog has lifted.
 
-###### This project was created as a 3D modeling and lighting study using Maya.
-###### Inspired by the western and swamp aesthetics of "Hunt: Showdown", the scene aims to depict a hunter’s cabin hidden deep within the wetlands, captured during a quiet afternoon after the fog has lifted.
-
+</br>
 <details>
 
 <summary><b>Role</b></summary>
 
-<b>Programmer, Designer, Animator</b>
+</br>
 
-- **Programming:** Buff system, player movement, shooting and physical bullets, enemy spawing.
-- **3D animation and Visual:** Particle effect for explosion effects, bullet effects, scene light baking，3D animation for weapon.
+> <b>Technical Artist, Technical Artist</b>
 
-<b>Technology Stack</b>
+- **Structural Focus:** `Firearm models was built with fully articulated internal firing mechanisms, including bolt operation, chamber structure, and rifling-related components.`
+- **Animation & Rigging:** `The firearms' bolt cycling and ejection behavior were demonstrated using Maya joint system and Unity’s Animator, showing the mechanical linkage between internal components during operation.`
+- **Lighting:** `Explored Unity’s native ray tracing features to construct natural lighting and shadow, focusing on material response, and environmental mood.`
+
+</br>
+
+><b>Technology Stack</b>
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Engine            | Unity                      |
-| Programming       | C#                         |
-| Version Control   | Git, GitHub                |
+| Engine⠀⠀⠀⠀⠀            | Unity⠀⠀⠀⠀⠀                      |
+| 3D Modeling⠀⠀⠀⠀⠀⠀       | Maya⠀⠀⠀⠀⠀                         |
 
-<br>
-
-<summary><b>HighLight</b></summary>
-<br>
-
-- **3D Animation and Blend Trees:** Use Unity's keyframes to craft detailed 3D animations for character hands and weapons, animation set of actions and transitions such as shooting, reloading, and running.
-- **Bullet and Shooting experience:** Bullets employ Rigidbody to simulate realistic trajectories, ejecting from the muzzle and gradually descending to the ground. Since each bullet is a GameObject with a Rigidbody component, an object pool is use to reduces the resource use caused by directly generating new bullets.
-- **Buff System:** Players can choose different Buff effects to strengthen themselves in the game. Buffs of the same type will also provide combo effects.
-<br>
+</br>
 
 </details>
 
 
 <details>
 
-<summary><b>Screen Shots</b></summary>
+<summary><b>High-Res Screenshots</b></summary>
+
+</br>
+
+<img src="image/Hunter/1.png" width="360" /> <img src="image/Hunter/2.png" width="360" />
+<img src="image/Hunter/3.png" width="360" /> <img src="image/Hunter/4.png" width="360" />
+<img src="image/Hunter/5.png" width="360" /> <img src="image/Hunter/6.png" width="360" />
+<img src="image/Hunter/7.png" width="360" /> 
  
 </details>
 
