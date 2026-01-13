@@ -635,15 +635,13 @@
 <details>
 <summary>
   
-  #### <b>The Two Worlds</b> 
+  #### <b>The Two Worlds</b>⠀⠀⠀    <a href = "https://fusionjeunesse.org/jeuxvideo_files/18-19/Canada/MontrealEtPeripherie/S/Rosemont/TheTwoWorlds/Jeu"> 『Youth Fusion 2018-2019 edition』</a>
 
   >『A small group-developed puzzle and action game created during a high school after-school program for the Youth Fusion. The project follows a child from opposing worlds who progress through puzzles and combat to defeat a final boss. 』⠀⠀[Click to Open]
 
 </summary>
 
  ><p>[Puzzle]⠀⠀[Adventure]⠀⠀[2D]⠀⠀[Team Project]</p>
-
-<a href = "https://fusionjeunesse.org/jeuxvideo_files/18-19/Canada/MontrealEtPeripherie/S/Rosemont/TheTwoWorlds/Jeu"> Youth Fusion 2018-2019 edition</a>
 
 </br>
 
