@@ -239,7 +239,7 @@
 <details>
 <summary>
   
-  #### <b>Fishin!</b> 
+  #### <b>Fishin!</b>⠀⠀⠀  <a href = "https://itch.io/jam/game-off-2024/rate/3147780"> 『Itch.io Game Off 2024』 </a>
 
 </br>
 
@@ -248,11 +248,11 @@
 
   >『Everything will seem peaceful until the secret is discovered. Fish, store, sell, and upgrade!』⠀⠀[Click to Open]
 
+
 </summary>
 
-  ><p> [Fishing]⠀⠀[3D Top Down]⠀⠀[Relax]⠀⠀[Team Project]</p>
+  ><p> [Fishing]⠀⠀[Relax]⠀⠀[3D Top Down]⠀⠀[Team Project]</p>
 
-<a href = "https://itch.io/jam/game-off-2024/rate/3147780"> Itch.io </a>
 
 
 <details>
