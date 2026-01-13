@@ -191,7 +191,6 @@
 
   ><p>[Tycoon]⠀⠀[Simulation]⠀⠀[mixing 2D&3D]⠀⠀[Team Project]</p>
 
-<a href = "https://itch.io/jam/game-off-2024/rate/3147780"> Itch.io </a>
 
 
 <details>
@@ -299,6 +298,16 @@
 <details>
 
 <summary><b>Visual Tone & Gameplay</b></summary>
+
+###### Fishing (.gif might take time to load)
+
+<img src="image/Fishin/Fishing.gif" width="720" />
+
+###### Screen Shoot
+
+<img src="image/Fishin/1.png" width="360" /> <img src="image/Fishin/2.png" width="360" />
+
+<img src="image/Fishin/3.png" width="360" /> <img src="image/Fishin/4.png" width="360" />
  
 </details>
 
