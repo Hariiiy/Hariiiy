@@ -109,7 +109,7 @@
 
 <summary><b>Role</b></summary>
 
-<b>Solo Game Developer</b>
+<b>Game Director, Programmer, Artist</b>
 
  ><p>Overview: As the sole developer of this project, I am responsible for every part of game creation, from initial concepts to final implementation. Including programming, art and animation, level design, sound design, and functions testing.</p>
 
@@ -197,7 +197,7 @@
 
 <summary><b>Role</b></summary>
 
-<b>Programmer, Designer</b>
+<b>Designer, Programmer, Artist</b>
 
 
 - **Programming:** Implemented Fishing Function and the interaction between player and fishes.
