@@ -363,9 +363,23 @@
 
 <summary><b>Visual Tone</b></summary>
 
+
+###### Gunplay animation (.gif might take time to load)
+
 <img src="image/NeonParadox/GunAnimation.gif" width="720" />
 
-###### Gunplay animation
+
+###### Movement animation (.gif might take time to load)
+
+<img src="image/NeonParadox/Movement.gif" width="720" />
+
+
+###### Screen Shoot
+
+<img src="image/NeonParadox/1.png" width="360" /> <img src="image/NeonParadox/2.png" width="360" />
+
+<img src="image/NeonParadox/3.png" width="360" /> <img src="image/NeonParadox/4.png" width="360" />
+
 
  
 </details>
