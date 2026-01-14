@@ -64,9 +64,9 @@
 
 </br>
 
-## SYSTEMS & PROGRAMMING
+## Technical Documentation
 
->⠀**⠀This section presents gameplay systems, tools, and technical implementations. The focus is on structure, logic, and refinement through development.**
+>⠀**⠀This section presents Technical documentation for individual projects: including design concepts, system code, etc.**
 
 <details>
 <summary>More</summary>
