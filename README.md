@@ -101,15 +101,23 @@
 
 </br>
 
-###### The Sunset is a mid-scale independent project developed solo. Players awaken with no memories in a world shaped by fungal collapse, gradually uncovering both the truth behind the apocalypse and their own origins. Rather than assuming a predefined role, players are invited to role-play themselves, making choices that define a personal journey through the world.
+###### You wake up with a splitting headache, your thoughts scattered and incomplete. All around you are ruins — twisted metal, collapsing structures, and fungal growth consuming what remains of the world.
 
-  
+###### Searching for answers about your identity and the cause of the world’s collapse, you unexpectedly connect to a private channel.
+
+###### At the other end lies a massive offshore oil platform, isolated in the depths of the sea.
+
+###### Who is still alive there? And what mark will you leave on this dying world?
+
+</br>
 
 <details>
 
 <summary><b>Role</b></summary>
 
-<b>Game Director, Programmer, Artist</b>
+</br>
+
+> <b>Game Director, Programmer, Artist</b>
 
  ><p>Overview: As the sole developer of this project, I am responsible for every part of game creation, from initial concepts to final implementation. Including programming, art and animation, level design, sound design, and functions testing.</p>
 
@@ -118,39 +126,16 @@
 - **2D Art and Animation:** Created character designs, environments, and characters' rigging animations using Adobe Photoshop, Sai2, Spine.
 - **SFX:** Created Sound and background music with FL studio, Some source from: Artlist.io
 
-<b>Technology Stack</b>
+</br>
+
+> <b>Technology Stack</b>
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Engine            | Unity 3D                   |
-| Programming       | C#                         |
-| Version Control   | Git, GitHub                |
-| Art and Design    | Adobe Photoshop, Spine, Sai 2     |
-| Sound             | FL Studio                  |
-
-<br>
-
-<summary><b>Coding highLight</b></summary>
-<br>
-
-- **Save System:** Using .json files to save player's game data, Save Manager code with Singleton and Prototype, and can be called to save and load when needed by any game object script in the game.
-- **Scriptable Objects:** Using scriptable objects to store perks' data, laying the foundation for adding more perks in future versions, making the perks better managed and making their mechanisms more diverse.
-- **Object Pool:** Enemies are stored in a object pool, saving resources needed to generate each enemy and reducing the resources consumed by the monster group. Also preparing for future shooting mods character.
-
-<br>
-
-</details>
-
-
-<details>
-
-<summary><b>Key Challenges and Solutions</b></summary>
-
-|Challenges       | Solutions             |
-|-------------------|----------------------------|
-| High perk count leads to loading delays        | Seprate the perk pool acooding to the perk type. Split the index numbers and assign meaning to each number,『Compared to 10001, 10002... Using a index to 13042, 1 represents the category of the perk, 3 represents the perk level, and 042 is the perk of the 42nd effect in category 1.』 This organization reduces the number of perks the system needs to search through, enhancing efficiency and minimizing resource consumption.  |
-|Latin fonts lack Unicode support for certain languages       | Developed a manager script that searches for all in-game text upon startup or when the language setting is changed. This script automatically updates the text to use a stylized font that supports the selected language.          |
-
+| Engine⠀⠀⠀⠀⠀            | Unity⠀⠀⠀⠀⠀                   |
+| Programming⠀⠀⠀⠀⠀       | C#⠀⠀⠀⠀⠀                         |
+| Art⠀⠀⠀⠀⠀    | Adobe Photoshop, Spine, SAI Ver.2⠀⠀⠀⠀⠀⠀    |
+| Sound⠀⠀⠀⠀⠀             | FL Studio⠀⠀⠀⠀⠀                  |
 
 <br>
 
@@ -193,24 +178,40 @@
 
 
 
+</br>
+
+###### By day, you run a burger restaurant. Serve customers, complete orders, and pay the rent.
+
+###### By night, you’re a werewolf. Take out the trash, stay out of sight — and make sure no one reports what they shouldn’t have seen.
+
+###### Keep the secret. Tomorrow’s business depends on it.
+
+###### (Inspired by WereCleaner, with character concepts and themes adapted as a stylistic homage)
+
 <details>
 
 <summary><b>Role</b></summary>
 
-<b>Designer, Programmer, Artist</b>
+</br>
+
+> <b>Designer, Programmer, Artist</b>
 
 
-- **Programming:** Implemented Fishing Function and the interaction between player and fishes.
-- **Visual:** Created the Water body effect with shader; numbers of particle effects.
-- **Spawner** Method to randomly spawn fished and respawn after a catch.
+- **Gameplay:** Designed the core night-time mechanic built around pickup, charge, and throw interactions. This system defines how players interacte with objects or characters during the night phase, it also introduces stealth gameplay and risk management.
+  
+- **Art:** Created character sprites for the protagonist, civilians, and environmental objects. Implemented animations using Unity’s Animator to enhance interactions, and add extra "juice" feel to gameplay.
+  
+- **Narrative Visual Design:** Designed a set of in-game newspaper pages representing different endings. Each failure condition triggers a unique newspaper, using visual storytelling to reflect consequences cause by what player did.
 
-<b>Technology Stack</b>
+</br>
+
+> <b>Technology Stack</b>
  
 | Category          | Technologies               |
 |-------------------|----------------------------|
-| Engine            | Unreal 5                   |
-| Programming       | Unreal BluePrint           |
-| Version Control   | Git, GitHub                |
+| Engine⠀⠀⠀⠀⠀            | Unity⠀⠀⠀⠀⠀                |
+| Programming⠀⠀⠀⠀⠀       | C#⠀⠀⠀⠀⠀          |
+| Art⠀⠀⠀⠀⠀  | SAI Ver.2⠀⠀⠀⠀⠀              |
 
 
 <br>
@@ -222,7 +223,7 @@
 
 <details>
 
-<summary><b>Screen Shots</b></summary>
+<summary><b>Visual Tone & Gameplay Screenshot</b></summary>
  
 </details>
 
