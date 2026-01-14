@@ -149,7 +149,7 @@
 
 <details>
 
-<summary><b>Screen Shots</b></summary>
+<summary><b>Visual Tone & Gameplay Screenshot</b></summary>
  
 </details>
 
