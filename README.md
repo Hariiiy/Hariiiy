@@ -119,9 +119,15 @@
 
 > <b>Game Director, Programmer, Artist</b>
 
-- **Programming:** Implemented game logic, physics, and user interfaces using Unity 3D and C#
-- **2D Art and Animation:** Created character designs, environments, and characters' rigging animations using Adobe Photoshop, Sai2, Spine.
-- **SFX:** Created Sound and background music with FL studio, Some source from: Artlist.io
+- **Narrative System:** `Designed a text-heavy narrative structure centered on world state rather than player progression, using environmental records, side characters, and documents to establish a background world view.`
+  
+- **Roguelite Exploration System:** `Implemented a roguelike exploration loop where players can change map tiles during exploration, allowing the environment itself to become part of strategic decision-making.`
+  
+- **Dice-based Randomness (DND-inspired):** `Integrated DND-style dice rolls into combat and exploration, including event-based checks during exploration, introducing controlled randomness that affects a event outcomes, rewards, and player decision-making beyond combat scenarios.`
+
+- **Buff & Modifier System:** `Built a scalable system to manage randomized buffs and modifiers for battle system, enabling long-term addon in future update.`
+
+- **Art Direction & UI, UX:** `Developed a unified visual direction combining ruins and vegetation, industrial signage-inspired UI, and a disc-based chapter selection system, which is inspired by archival media and music albums.`
 
 </br>
 
@@ -131,7 +137,7 @@
 |-------------------|----------------------------|
 | Engine⠀⠀⠀⠀⠀            | Unity⠀⠀⠀⠀⠀                   |
 | Programming⠀⠀⠀⠀⠀       | C#⠀⠀⠀⠀⠀                         |
-| Art⠀⠀⠀⠀⠀    | Adobe Photoshop, Spine, SAI Ver.2⠀⠀⠀⠀⠀⠀    |
+| Art⠀⠀⠀⠀⠀    |Photoshop, Spine, SAI Ver.2⠀⠀⠀⠀⠀⠀    |
 | Sound⠀⠀⠀⠀⠀             | FL Studio⠀⠀⠀⠀⠀                  |
 
 <br>
@@ -184,6 +190,8 @@
 ###### Keep the secret. Tomorrow’s business depends on it.
 
 ###### (Inspired by WereCleaner, with character concepts and themes adapted as a stylistic homage)
+
+</br>
 
 <details>
 
