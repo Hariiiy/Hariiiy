@@ -119,9 +119,6 @@
 
 > <b>Game Director, Programmer, Artist</b>
 
- ><p>Overview: As the sole developer of this project, I am responsible for every part of game creation, from initial concepts to final implementation. Including programming, art and animation, level design, sound design, and functions testing.</p>
-
-
 - **Programming:** Implemented game logic, physics, and user interfaces using Unity 3D and C#
 - **2D Art and Animation:** Created character designs, environments, and characters' rigging animations using Adobe Photoshop, Sai2, Spine.
 - **SFX:** Created Sound and background music with FL studio, Some source from: Artlist.io
