@@ -155,11 +155,11 @@
 
 <img src="image/TheSunset/1.png" width="360" /><img src="image/TheSunset/2.png" width="360" />
 
-<img src="image/TheSunset/3.png" width="360" /> <img src="image/TheSunset/4.png" width="360" />
+<img src="image/TheSunset/3.PNG" width="360" /> <img src="image/TheSunset/4.png" width="360" />
 
 <img src="image/TheSunset/5.png" width="360" /><img src="image/TheSunset/6.png" width="360" />
 
-<img src="image/TheSunset/7.png" width="360" /> <img src="image/TheSunset/8.png" width="360" />
+<img src="image/TheSunset/8.png" width="360" />
 
 <img src="image/TheSunset/9.png" width="360" />
  
