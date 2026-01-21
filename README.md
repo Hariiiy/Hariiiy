@@ -99,7 +99,7 @@
   ><p>[Roguelite]⠀⠀[CRPG-Inspired]⠀⠀[mixing 2D&3D]⠀⠀[Cards]⠀⠀[SOLO Project]</p>
 
 <img src="image/TheSunset_Preview.gif" width="720" />
-
+[▶ Full HD Preview](image/TheSunset/TheSunset_Preview.mp4)
 
 </br>
 
@@ -576,6 +576,15 @@
 
 <br>
 
+<summary><b>Visual Tone & Gameplay Screenshot</b></summary>
+
+<img src="image/Museum/1.png" width="360" /> <img src="image/Museum/2.png" width="360" />
+
+<img src="image/Museum/3.png" width="360" /> <img src="image/Museum/4.png" width="360" />
+
+<img src="image/Museum/5.png" width="360" />
+ 
+</details>
 
 </details>
 
