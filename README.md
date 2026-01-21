@@ -154,11 +154,21 @@
 
 <summary><b>Visual Tone & Gameplay Screenshot</b></summary>
 
+###### Chapter Selection
+
 <img src="image/TheSunset/1.png" width="360" /><img src="image/TheSunset/2.png" width="360" />
 
-<img src="image/TheSunset/3.PNG" width="360" /> <img src="image/TheSunset/4.png" width="360" />
+###### Dialogue
 
-<img src="image/TheSunset/5.png" width="360" /><img src="image/TheSunset/6.png" width="360" />
+<img src="image/TheSunset/3.PNG" width="360" /> 
+
+###### Explore
+
+<img src="image/TheSunset/4.png" width="360" /> <img src="image/TheSunset/5.png" width="360" />
+
+<img src="image/TheSunset/6.png" width="360" />
+
+###### Encounter Fight
 
 <img src="image/TheSunset/8.png" width="360" />
 
@@ -243,12 +253,15 @@
 
 <summary><b>Visual Tone & Gameplay Screenshot</b></summary>
 
+###### 2D sprites
 <img src="image/FMR/1.png" width="720" /> 
 
-<img src="image/FMR/2.png" width="360" />
 
-<img src="image/FMR/3.png" width="360" /> <img src="image/FMR/4.png" width="360" />
-<img src="image/FMR/5.png" width="360" />
+###### Day
+<img src="image/FMR/2.png" width="360" /> <img src="image/FMR/3.png" width="360" /> 
+
+###### Night
+<img src="image/FMR/4.png" width="360" /> <img src="image/FMR/5.png" width="360" />
  
 </details>
 
