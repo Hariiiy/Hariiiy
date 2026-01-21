@@ -98,6 +98,8 @@
 
   ><p>[Roguelite]⠀⠀[CRPG-Inspired]⠀⠀[mixing 2D&3D]⠀⠀[Cards]⠀⠀[SOLO Project]</p>
 
+<img src="image/TheSunset_Preview.gif" width="720" />
+
 
 </br>
 
@@ -150,6 +152,16 @@
 <details>
 
 <summary><b>Visual Tone & Gameplay Screenshot</b></summary>
+
+<img src="image/TheSunset/1.png" width="360" /><img src="image/TheSunset/2.png" width="360" />
+
+<img src="image/TheSunset/3.png" width="360" /> <img src="image/TheSunset/4.png" width="360" />
+
+<img src="image/TheSunset/5.png" width="360" /><img src="image/TheSunset/6.png" width="360" />
+
+<img src="image/TheSunset/7.png" width="360" /> <img src="image/TheSunset/8.png" width="360" />
+
+<img src="image/TheSunset/9.png" width="360" />
  
 </details>
 
@@ -179,7 +191,7 @@
 
   ><p>[Tycoon]⠀⠀[Simulation]⠀⠀[mixing 2D&3D]⠀⠀[Team Project]</p>
 
-
+<img src="image/FMR_Preview.gif" width="720" />
 
 </br>
 
@@ -229,6 +241,13 @@
 <details>
 
 <summary><b>Visual Tone & Gameplay Screenshot</b></summary>
+
+<img src="image/FMR/1.png" width="720" /> 
+
+<img src="image/FMR/2.png" width="360" />
+
+<img src="image/FMR/3.png" width="360" /> <img src="image/FMR/4.png" width="360" />
+<img src="image/FMR/5.png" width="360" />
  
 </details>
 
